@@ -1,0 +1,1823 @@
+A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Age,Gender,Ethnicity,Jaundice ,Parent_ASD,Score,Class
+0,0,0,0,0,0,0,0,0,0,27,F,White-European-European,NO,NO,0,NO
+1,1,1,1,1,1,1,1,1,1,21,F,White-European-European,NO,NO,10,YES
+1,1,0,1,1,0,0,1,0,0,18,M,Black,NO,NO,5,NO
+1,0,0,0,1,1,1,1,1,1,49,M,Black,NO,NO,7,YES
+1,1,1,0,0,0,0,1,0,0,18,M,Aboriginal,NO,NO,4,NO
+1,0,1,1,1,0,1,1,1,0,29,M,Latino,NO,NO,7,YES
+0,0,0,0,1,0,0,1,0,0,31,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,0,0,0,0,0,37,F,Middle Eastern,NO,NO,1,NO
+1,0,1,1,1,0,0,1,0,1,17,M,Middle Eastern,YES,NO,6,NO
+1,0,1,1,0,0,1,1,1,1,17,M,Middle Eastern,NO,YES,7,YES
+1,1,1,1,0,0,0,0,0,0,38,F,Middle Eastern,NO,NO,4,NO
+1,0,1,0,0,1,0,1,0,1,18,M,White-European-European,YES,NO,5,NO
+1,0,1,1,1,0,0,0,0,0,31,F,Middle Eastern,NO,NO,4,NO
+0,1,1,1,0,0,0,0,0,0,33,M,Middle Eastern,YES,NO,3,NO
+1,1,0,0,0,0,0,0,0,0,32,F,Middle Eastern,YES,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,30,M,Middle Eastern,YES,NO,3,NO
+0,0,0,0,0,0,0,0,0,1,33,F,Middle Eastern,NO,NO,1,NO
+1,1,1,1,1,1,1,1,1,1,30,F,White-European-European,NO,YES,10,YES
+1,1,1,1,0,0,1,1,0,0,26,F,White-European-European,NO,NO,6,NO
+1,1,0,1,0,0,0,1,0,1,24,M,Latino,NO,YES,5,NO
+1,1,0,1,1,0,1,1,1,1,27,M,Latino,YES,YES,8,YES
+1,1,1,1,1,1,1,1,0,0,25,F,Middle Eastern,NO,NO,8,YES
+1,1,1,1,1,1,1,1,0,0,25,F,Middle Eastern,NO,NO,8,YES
+1,1,0,1,0,0,1,1,0,1,35,F,White-European-European,NO,YES,6,NO
+1,0,0,0,0,0,0,1,0,0,40,F,Middle Eastern,NO,NO,2,NO
+1,1,1,1,1,0,1,1,1,1,36,M,Others ,YES,NO,9,YES
+0,1,0,0,0,0,0,1,0,0,17,F,Black,NO,NO,2,NO
+1,1,1,1,0,0,0,0,1,0,64,M,White-European-European,NO,NO,5,NO
+1,1,0,0,1,0,0,1,1,1,29,M,White-European-European,NO,NO,6,NO
+1,0,0,0,0,0,1,1,0,1,17,F,Middle Eastern,NO,NO,4,NO
+1,1,1,1,0,1,1,1,1,0,17,M,White-European-European,YES,YES,8,YES
+1,1,1,1,1,1,1,1,1,1,33,M,White-European-European,NO,NO,10,YES
+0,1,0,1,1,1,1,0,0,1,18,F,Middle Eastern,NO,NO,6,NO
+0,1,1,1,1,1,0,0,1,0,17,F,Middle Eastern,NO,NO,6,NO
+1,0,0,0,0,0,1,1,0,1,18,F,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,1,17,M,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,1,17,F,Middle Eastern,NO,NO,4,NO
+1,1,0,1,1,0,0,1,0,1,18,M,Middle Eastern,NO,YES,6,NO
+1,0,0,0,0,0,1,1,1,1,31,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,1,30,M,White-European-European,NO,NO,2,NO
+0,0,1,0,1,1,0,0,0,0,35,F,Middle Eastern,NO,YES,3,NO
+0,0,0,0,0,0,1,1,0,1,34,M,Middle Eastern,YES,NO,3,NO
+0,1,1,1,0,0,0,0,0,0,38,M,Middle Eastern,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,27,F,Black,NO,NO,0,NO
+0,0,0,1,0,0,1,1,1,1,27,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,1,42,M,Middle Eastern,YES,NO,2,NO
+1,1,1,1,0,0,0,1,0,0,43,M,Middle Eastern,NO,NO,5,NO
+0,1,1,0,0,0,0,1,0,0,24,F,Middle Eastern,YES,NO,3,NO
+0,0,0,0,0,0,0,1,0,0,40,M,,YES,YES,1,NO
+0,0,0,0,0,0,0,1,0,0,40,M,Middle Eastern,YES,YES,1,NO
+0,0,0,0,0,0,0,1,0,0,48,M,Black,NO,NO,1,NO
+0,1,1,0,0,0,0,0,1,1,31,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,0,0,0,0,0,18,M,White-European-European,NO,NO,0,NO
+1,0,0,1,1,1,1,1,0,1,37,F,White-European-European,NO,YES,7,YES
+1,1,0,0,0,0,1,0,0,1,55,F,Others ,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,18,F,White-European-European,YES,NO,10,YES
+1,1,1,1,1,1,1,1,1,1,18,F,White-European-European,NO,NO,10,YES
+0,0,1,0,0,0,0,0,0,0,55,M,White-European-European,NO,NO,1,NO
+0,1,1,0,1,0,0,1,1,1,50,M,Middle Eastern,NO,NO,6,NO
+1,0,1,1,1,1,0,0,1,0,34,F,White-European-European,NO,NO,6,NO
+1,0,0,1,1,1,1,0,1,1,53,F,White-European-European,NO,NO,7,YES
+1,0,1,1,0,1,1,1,1,1,35,F,White-European-European,NO,YES,8,YES
+1,0,1,1,1,0,1,1,0,1,20,F,Latino,YES,NO,7,YES
+0,0,0,0,1,1,0,0,0,0,28,F,Asian,NO,NO,2,NO
+0,0,1,1,0,0,0,0,0,1,34,F,Middle Eastern,NO,YES,3,NO
+0,1,1,1,0,0,0,0,0,1,36,F,White-European-European,YES,YES,4,NO
+1,1,1,1,1,1,0,1,0,1,27,F,White-European-European,NO,NO,8,YES
+1,0,1,1,1,1,0,1,1,0,53,F,White-European-European,NO,NO,7,YES
+1,1,1,1,0,1,0,0,0,0,24,F,Aboriginal,NO,NO,5,NO
+0,0,1,1,1,0,1,0,0,0,24,M,Aboriginal,NO,NO,4,NO
+0,1,1,0,0,1,0,0,0,0,55,M,White-European-European,NO,NO,3,NO
+1,1,0,0,0,1,1,1,0,1,30,F,Asian,NO,NO,6,NO
+1,0,0,1,0,0,0,1,0,0,21,F,Latino,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,35,F,Black,NO,NO,10,YES
+1,0,0,0,0,0,0,0,0,0,38,F,Aboriginal,NO,NO,1,NO
+1,0,1,1,1,1,1,1,0,1,21,M,Latino,NO,YES,8,YES
+1,1,1,1,1,1,1,1,1,1,47,M,White-European-European,NO,NO,10,YES
+1,1,1,1,1,1,0,1,1,1,30,F,Asian,NO,NO,9,YES
+1,0,1,1,1,1,0,1,1,1,28,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,0,1,1,1,43,F,White-European-European,NO,NO,9,YES
+1,0,0,0,1,0,0,1,0,0,32,F,South Asian,NO,YES,3,NO
+1,1,1,1,0,0,0,1,0,0,44,F,White-European-European,NO,NO,5,NO
+1,0,1,1,1,1,1,1,0,1,20,F,Others ,NO,NO,8,YES
+1,0,1,1,0,1,1,1,0,1,20,F,Others ,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,47,M,Middle Eastern,NO,NO,0,NO
+1,0,0,1,1,0,0,1,1,0,19,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,0,1,29,F,White-European-European,NO,NO,9,YES
+1,0,1,0,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,3,NO
+0,1,0,0,0,0,0,1,0,0,27,M,Middle Eastern,NO,NO,2,NO
+1,0,1,0,1,1,1,1,0,0,21,M,Hispanic,NO,NO,6,NO
+1,0,0,0,1,0,1,0,0,1,35,M,Middle Eastern,NO,NO,4,NO
+1,1,0,1,1,0,0,1,0,0,30,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,1,0,0,0,0,0,42,M,Black,NO,NO,1,NO
+1,1,0,0,0,0,1,1,0,1,29,F,South Asian,NO,NO,5,NO
+0,0,1,1,0,0,0,1,0,0,58,M,Asian,NO,NO,3,NO
+1,0,1,1,0,0,1,1,0,1,21,M,White-European-European,NO,NO,6,NO
+1,1,1,0,0,0,0,1,1,1,21,M,White-European-European,NO,NO,6,NO
+0,0,1,1,1,0,0,1,1,1,37,F,White-European-European,NO,YES,6,NO
+1,1,0,1,1,1,1,1,0,0,21,M,Hispanic,NO,NO,7,YES
+1,0,0,0,0,0,1,1,0,0,20,M,Middle Eastern,NO,NO,3,NO
+1,1,0,1,1,1,1,1,1,0,33,F,Black,NO,YES,8,YES
+1,0,0,1,1,0,0,0,0,1,20,M,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,0,45,F,Middle Eastern,YES,NO,2,NO
+0,0,1,1,0,0,1,1,0,1,32,M,Middle Eastern,YES,YES,5,NO
+1,0,0,0,0,0,1,0,0,1,30,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,33,F,White-European-European,NO,YES,10,YES
+0,0,1,0,1,0,0,1,0,1,42,F,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,0,17,F,White-European-European,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,1,27,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,1,1,1,1,1,1,35,F,Middle Eastern,NO,YES,8,YES
+1,0,0,0,0,0,0,0,0,0,37,M,White-European-European,NO,NO,1,NO
+1,0,0,0,0,0,0,1,1,1,30,F,White-European-European,NO,YES,4,NO
+1,1,1,1,1,1,0,1,1,1,29,F,White-European-European,NO,NO,9,YES
+1,0,1,1,0,0,0,0,0,1,17,F,White-European-European,NO,YES,4,NO
+0,1,0,0,1,0,1,0,0,1,40,F,Middle Eastern,NO,NO,4,NO
+0,0,0,1,1,1,0,1,0,1,22,F,Aboriginal,NO,NO,5,NO
+1,1,1,0,1,1,1,0,1,1,19,F,Latino,NO,YES,8,YES
+1,1,1,1,1,0,0,1,1,1,42,F,White-European-European,NO,YES,8,YES
+1,1,0,0,0,0,0,1,0,1,37,F,White-European-European,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,28,F,White-European-European,NO,NO,4,NO
+1,0,0,1,1,0,1,0,0,0,22,M,Others ,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,26,F,Aboriginal,NO,NO,3,NO
+0,0,0,0,0,0,0,0,1,0,21,M,Aboriginal,NO,NO,1,NO
+0,1,1,0,0,0,0,1,0,0,26,F,South Asian,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,39,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,0,0,1,1,26,M,Asian,NO,NO,3,NO
+1,1,0,0,1,0,1,1,0,0,26,M,Asian,NO,NO,5,NO
+0,0,0,0,1,1,0,1,0,1,21,M,South Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,0,0,0,25,M,Asian,NO,NO,0,NO
+0,0,1,0,1,1,1,1,0,1,26,M,South Asian,NO,NO,6,NO
+1,1,0,1,1,0,1,1,0,1,30,F,White-European-European,NO,NO,7,YES
+1,0,0,1,1,1,1,0,0,0,19,F,Asian,NO,NO,5,NO
+1,0,0,0,0,1,1,0,0,0,19,F,Asian,NO,NO,3,NO
+1,0,1,1,1,1,1,1,1,1,25,F,White-European-European,NO,YES,9,YES
+0,0,1,1,0,1,0,1,1,1,23,M,White-European-European,NO,NO,6,NO
+1,0,0,0,1,0,0,0,0,1,31,M,Asian,NO,NO,3,NO
+0,1,0,0,0,0,0,1,1,1,27,M,Asian,NO,NO,4,NO
+1,1,0,1,1,1,1,1,0,1,29,F,Middle Eastern,NO,NO,8,YES
+1,0,1,1,1,1,0,1,1,0,38,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,0,1,0,1,23,F,White-European-European,NO,NO,8,YES
+1,1,1,0,1,0,1,1,0,0,27,M,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,27,F,White-European-European,NO,NO,9,YES
+0,0,0,0,0,0,1,1,0,1,20,F,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,1,0,0,1,0,42,M,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,20,M,White-European-European,NO,NO,9,YES
+1,0,1,1,1,1,1,1,1,1,17,F,White-European-European,NO,NO,9,YES
+1,0,0,0,0,0,0,0,0,0,20,F,Black,NO,NO,1,NO
+1,0,0,1,1,1,1,1,0,1,30,M,Asian,YES,NO,7,YES
+1,0,1,1,1,1,1,1,1,1,28,F,White-European-European,NO,YES,9,YES
+1,1,0,0,1,1,1,1,0,1,26,F,White-European-European,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,26,F,White-European-European,NO,NO,0,NO
+1,0,0,1,1,1,0,1,0,1,31,M,Middle Eastern,NO,YES,6,NO
+1,0,1,1,0,0,1,0,0,1,40,F,White-European-European,NO,NO,5,NO
+1,0,0,0,1,0,0,0,1,1,39,F,White-European-European,NO,YES,4,NO
+1,1,0,0,0,0,0,1,0,0,18,F,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,24,M,Black,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,0,23,M,South Asian,NO,NO,3,NO
+1,0,1,1,0,0,0,1,0,1,24,M,Asian,NO,NO,5,NO
+0,1,0,0,1,1,0,1,1,0,24,M,Asian,NO,NO,5,NO
+1,0,1,1,0,0,0,1,1,1,27,M,Asian,NO,NO,6,NO
+0,1,1,0,0,1,0,0,1,1,24,M,Asian,NO,NO,5,NO
+0,0,0,0,1,0,0,0,0,1,25,M,Asian,NO,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,22,M,Asian,NO,NO,3,NO
+0,1,0,0,0,0,0,0,0,1,40,F,Asian,NO,NO,2,NO
+0,0,1,1,0,0,0,1,0,1,23,M,Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,29,M,South Asian,NO,NO,2,NO
+1,0,1,0,0,0,0,1,0,0,25,M,Asian,NO,NO,3,NO
+1,0,0,1,1,0,0,1,0,0,27,M,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,0,22,M,South Asian,NO,NO,1,NO
+1,0,0,1,1,1,1,1,1,1,28,M,White-European-European,NO,NO,8,YES
+1,0,1,1,1,1,1,1,1,1,20,M,White-European-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,19,F,White-European-European,NO,NO,10,YES
+1,1,0,0,1,1,1,1,0,1,37,F,Others ,NO,NO,7,YES
+1,1,1,1,1,0,1,1,1,0,35,M,White-European-European,YES,YES,8,YES
+0,0,0,0,1,0,0,1,0,0,26,M,Asian,NO,NO,2,NO
+0,1,1,1,1,0,1,1,0,1,23,M,Asian,NO,NO,7,YES
+1,1,0,0,1,0,0,0,0,1,32,F,South Asian,NO,NO,4,NO
+0,0,1,0,1,0,1,0,1,1,30,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,0,0,1,31,M,Asian,NO,NO,4,NO
+0,0,0,0,0,0,1,1,0,1,28,F,Asian,NO,NO,3,NO
+1,0,0,0,0,1,0,1,0,1,29,F,Asian,NO,NO,4,NO
+0,1,0,0,1,0,0,1,0,1,29,F,South Asian,NO,NO,4,NO
+1,0,0,1,0,0,0,0,1,1,29,F,Asian,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,0,31,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,36,M,Asian,NO,NO,0,NO
+0,1,0,0,0,0,0,1,0,0,32,F,South Asian,NO,NO,2,NO
+0,0,0,0,0,0,0,1,0,0,34,F,South Asian,NO,NO,1,NO
+1,1,0,0,0,0,0,1,0,0,24,M,Asian,NO,NO,3,NO
+1,0,1,0,1,0,1,1,0,1,24,F,Asian,NO,NO,6,NO
+1,0,0,0,1,0,1,1,0,1,42,M,Asian,NO,NO,5,NO
+0,0,1,0,0,0,0,1,1,1,26,F,Others ,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,27,F,Asian,NO,NO,4,NO
+0,0,1,1,1,0,0,1,1,1,36,F,Latino,NO,YES,6,NO
+1,1,1,1,1,0,0,1,1,1,36,F,Latino,NO,YES,8,YES
+1,0,1,1,0,0,1,1,0,1,55,M,Hispanic,NO,NO,6,NO
+1,1,0,1,0,0,1,0,0,0,23,F,Asian,NO,NO,4,NO
+0,0,1,1,1,0,0,0,0,1,22,F,Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,42,F,Middle Eastern,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,0,54,M,White-European-European,NO,NO,3,NO
+1,1,0,0,0,0,1,1,1,1,43,F,Black,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,43,F,Black,NO,NO,9,YES
+0,0,1,1,1,0,0,1,1,1,29,M,Middle Eastern,NO,NO,6,NO
+1,0,1,0,1,0,0,1,0,1,29,M,Middle Eastern,NO,NO,5,NO
+1,0,1,0,1,0,1,0,0,0,37,M,White-European-European,NO,NO,4,NO
+1,0,0,0,1,0,1,0,0,1,39,F,White-European-European,NO,NO,4,NO
+1,1,1,1,1,0,0,0,0,0,18,F,Asian,NO,NO,5,NO
+0,1,0,1,1,1,0,1,0,1,31,M,White-European-European,NO,NO,6,NO
+0,0,1,1,1,0,0,0,0,1,34,M,Asian,NO,NO,4,NO
+0,0,1,1,1,0,1,0,0,1,22,M,White-European-European,NO,NO,5,NO
+1,0,1,1,1,1,1,0,1,0,28,M,South Asian,NO,NO,7,YES
+1,0,0,0,0,0,1,1,0,1,38,M,Others ,NO,YES,4,NO
+1,0,0,0,0,0,1,1,0,1,28,F,White-European-European,NO,NO,4,NO
+1,1,0,1,1,1,0,1,1,1,53,F,White-European-European,NO,YES,8,YES
+1,1,1,0,1,0,1,0,0,0,26,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,37,M,White-European-European,NO,NO,9,YES
+1,1,0,1,0,0,0,1,0,1,42,M,Latino,YES,YES,5,NO
+1,0,0,0,0,0,0,1,0,1,43,M,Hispanic,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,32,F,Asian,NO,NO,2,NO
+0,1,0,1,0,0,0,1,0,0,31,M,White-European-European,NO,YES,3,NO
+1,0,1,1,1,1,1,1,1,1,53,F,White-European-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,28,M,White-European-European,NO,NO,10,YES
+1,0,1,1,1,1,1,1,1,1,38,M,White-European-European,NO,NO,9,YES
+1,1,1,0,1,1,0,1,1,0,31,M,White-European-European,NO,NO,7,YES
+1,1,1,1,0,0,0,0,0,0,31,F,Aboriginal,NO,YES,4,NO
+1,1,1,1,1,0,1,1,1,1,21,F,White-European-European,NO,NO,9,YES
+1,1,0,1,1,0,0,0,1,1,25,F,White-European-European,NO,NO,6,NO
+1,1,0,1,1,0,0,1,1,1,25,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,1,0,1,1,60,F,White-European-European,NO,YES,9,YES
+1,0,1,1,0,0,0,0,0,0,39,M,White-European-European,NO,YES,3,NO
+1,1,1,1,1,1,1,1,1,1,53,M,White-European-European,NO,NO,10,YES
+1,1,1,1,1,1,1,1,1,1,20,M,Middle Eastern,NO,YES,10,YES
+1,1,1,0,1,0,0,1,1,1,25,F,White-European-European,NO,NO,7,YES
+1,1,1,1,0,0,1,1,0,0,50,M,White-European-European,NO,NO,6,NO
+1,0,0,1,1,1,1,1,1,1,28,F,White-European-European,NO,NO,8,YES
+1,0,1,1,1,1,1,1,1,1,37,F,White-European-European,NO,YES,9,YES
+0,0,0,1,0,1,0,1,1,1,30,M,Asian,NO,YES,5,NO
+1,1,0,0,0,1,1,1,0,1,32,F,White-European-European,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,1,34,F,White-European-European,NO,NO,4,NO
+1,1,1,1,0,0,0,0,0,1,42,M,White-European-European,NO,NO,5,NO
+1,1,0,0,1,1,1,1,1,1,22,F,Black,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,37,F,Middle Eastern,YES,NO,4,NO
+1,1,0,0,0,0,0,1,0,1,39,M,White-European-European,NO,YES,4,NO
+1,1,0,1,1,0,1,1,0,1,18,M,White-European-European,NO,NO,7,YES
+1,0,0,1,0,0,0,0,0,0,54,F,White-European-European,NO,YES,2,NO
+1,1,0,0,0,0,0,1,0,0,42,M,White-European-European,NO,NO,3,NO
+0,0,1,0,0,0,0,0,0,0,27,F,Middle Eastern,NO,NO,1,NO
+1,1,1,1,1,0,0,1,0,0,22,M,White-European-European,NO,NO,6,NO
+1,0,1,1,0,1,1,1,1,1,22,M,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,1,0,1,1,21,F,White-European-European,NO,NO,9,YES
+0,1,0,1,0,0,0,1,0,1,28,F,White-European-European,NO,NO,4,NO
+1,1,1,1,1,1,1,0,1,1,17,M,Asian,YES,NO,9,YES
+0,1,0,0,0,0,0,0,0,0,28,M,White-European-European,NO,NO,1,NO
+0,0,0,1,1,0,1,1,0,1,21,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,31,F,Asian,NO,NO,10,YES
+1,0,0,0,0,0,1,1,0,0,20,M,South Asian,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,21,M,White-European-European,NO,NO,2,NO
+1,1,0,0,1,0,0,0,0,0,22,M,White-European-European,NO,NO,3,NO
+0,1,0,0,0,0,0,1,1,1,21,M,White-European-European,NO,NO,4,NO
+0,1,1,0,0,0,0,0,0,0,24,M,Black,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,24,M,South Asian,NO,NO,2,NO
+1,0,0,0,1,1,1,1,0,1,25,M,Asian,NO,NO,6,NO
+1,0,0,0,0,0,0,0,0,1,17,M,South Asian,NO,NO,2,NO
+0,1,0,0,0,0,0,1,1,0,21,M,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,23,M,Aboriginal,NO,NO,2,NO
+1,0,0,1,1,0,1,1,0,0,21,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,1,1,1,22,M,Others ,NO,NO,6,NO
+1,0,0,0,1,0,0,1,0,1,24,F,Asian,NO,NO,4,NO
+0,0,1,0,1,1,0,0,1,1,34,M,Others ,NO,NO,5,NO
+1,0,1,0,1,0,1,1,0,1,30,M,Asian,NO,NO,6,NO
+1,0,0,0,0,0,1,1,0,1,29,F,Asian,NO,NO,4,NO
+1,0,0,1,1,0,1,1,0,0,20,M,Aboriginal,NO,NO,5,NO
+0,0,1,1,0,1,0,1,1,1,23,M,White-European-European,NO,NO,6,NO
+0,0,0,0,0,0,0,1,0,1,26,M,Asian,NO,NO,2,NO
+1,0,0,1,1,1,1,1,1,1,20,M,South Asian,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,0,41,M,Asian,NO,NO,3,NO
+1,0,0,1,0,0,1,1,0,0,24,M,Asian,NO,NO,4,NO
+0,0,0,1,0,0,0,1,0,0,35,M,Asian,NO,NO,2,NO
+0,0,0,1,0,0,1,0,0,0,23,M,South Asian,NO,NO,2,NO
+1,0,1,0,0,0,1,0,0,0,36,M,White-European-European,NO,NO,3,NO
+1,1,0,0,1,0,0,1,0,0,33,M,White-European-European,NO,NO,4,NO
+1,0,0,0,0,1,0,1,1,1,24,M,South Asian,NO,NO,5,NO
+0,1,1,0,1,0,0,1,0,0,25,M,Asian,NO,NO,4,NO
+1,0,0,0,1,1,0,1,0,1,25,M,Asian,NO,NO,5,NO
+1,0,0,0,0,0,1,1,1,1,25,M,Asian,NO,NO,5,NO
+0,0,0,0,0,0,1,1,0,1,24,M,Asian,NO,NO,3,NO
+1,0,1,0,1,0,0,1,0,1,27,F,South Asian,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,0,26,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,26,M,Others ,NO,NO,0,NO
+1,0,0,0,1,0,0,1,1,0,23,F,Asian,NO,NO,4,NO
+1,1,1,0,1,0,1,1,0,1,30,M,Asian,NO,NO,7,YES
+1,0,0,1,0,0,0,0,1,0,25,M,Asian,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,23,M,Aboriginal,NO,NO,3,NO
+1,0,1,1,1,0,0,1,0,0,34,F,White-European-European,NO,NO,5,NO
+1,0,0,1,1,0,1,1,0,1,20,F,Asian,NO,NO,6,NO
+1,0,1,1,1,1,0,0,1,1,22,F,White-European-European,NO,YES,7,YES
+1,1,1,1,0,0,0,1,1,1,33,F,Black,NO,YES,7,YES
+1,1,1,1,1,1,1,1,1,1,46,M,White-European-European,NO,NO,10,YES
+1,1,0,0,0,0,0,0,0,0,17,M,White-European-European,NO,NO,2,NO
+1,1,1,0,0,0,0,1,0,0,45,F,White-European-European,NO,YES,4,NO
+0,1,1,1,0,0,0,0,1,0,26,M,Asian,NO,NO,4,NO
+1,0,0,0,1,0,0,0,1,0,30,M,Middle Eastern,NO,NO,3,NO
+1,1,0,0,0,0,0,0,0,0,32,F,Middle Eastern,NO,YES,2,NO
+1,0,1,1,1,1,1,1,1,1,38,F,White-European-European,NO,NO,9,YES
+0,1,1,0,1,0,0,0,0,0,26,M,Hispanic,YES,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,29,F,Hispanic,NO,YES,1,NO
+1,1,1,1,1,0,0,1,1,1,33,M,White-European-European,NO,NO,8,YES
+0,1,1,0,1,1,1,0,1,1,32,F,Black,NO,NO,7,YES
+1,1,1,1,1,1,1,1,1,1,44,F,White-European-European,NO,NO,10,YES
+0,1,0,0,0,0,1,0,0,1,47,F,White-European-European,YES,NO,3,NO
+0,0,0,1,1,1,1,0,1,1,32,F,Asian,NO,NO,6,NO
+0,0,0,0,0,0,0,0,0,0,40,M,White-European-European,NO,NO,0,NO
+1,0,0,1,1,0,0,1,0,1,40,M,White-European-European,NO,NO,5,NO
+0,0,0,0,0,0,0,0,0,0,44,F,White-European-European,NO,NO,0,NO
+1,1,1,0,1,1,1,0,1,1,56,M,White-European-European,YES,NO,8,YES
+1,1,1,0,1,1,1,0,1,1,23,F,White-European-European,NO,NO,8,YES
+1,1,0,1,1,0,0,1,1,1,32,F,Black,NO,NO,7,YES
+0,1,1,1,0,0,0,1,0,1,27,M,White-European-European,NO,YES,5,NO
+1,0,0,0,1,0,1,0,0,1,28,F,White-European-European,NO,YES,4,NO
+0,0,0,0,0,0,0,0,0,0,40,F,Middle Eastern,NO,NO,0,NO
+1,0,1,1,1,1,0,0,1,1,45,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,0,0,1,1,19,F,White-European-European,YES,NO,8,YES
+1,1,1,1,0,1,0,1,1,1,55,M,White-European-European,NO,YES,8,YES
+1,0,0,1,0,0,1,1,0,1,27,F,White-European-European,YES,NO,5,NO
+1,1,1,1,1,1,1,0,1,1,19,F,White-European-European,YES,NO,9,YES
+1,0,0,1,0,0,0,1,0,0,29,M,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,33,F,White-European-European,YES,NO,10,YES
+0,0,1,1,1,1,1,1,0,0,48,F,White-European-European,NO,NO,6,NO
+0,0,0,0,0,0,0,1,1,0,37,F,Others ,NO,NO,2,NO
+1,1,1,1,1,0,0,0,1,0,30,M,Asian,NO,NO,6,NO
+1,1,0,1,0,0,0,0,0,1,37,F,White-European-European,NO,NO,4,NO
+1,0,0,1,1,0,1,1,1,1,28,F,Middle Eastern,NO,NO,7,YES
+1,0,0,1,1,1,1,1,1,1,20,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,0,0,1,1,25,F,Aboriginal,NO,NO,8,YES
+1,1,1,1,1,1,0,1,0,0,58,F,Middle Eastern,NO,NO,7,YES
+1,0,1,0,0,0,0,0,0,0,36,F,White-European-European,NO,NO,2,NO
+0,0,1,1,1,0,0,1,0,0,36,M,White-European-European,YES,NO,4,NO
+1,0,1,0,1,1,1,1,1,0,19,M,Hispanic,NO,NO,7,YES
+1,0,1,1,1,1,0,1,1,0,19,M,Hispanic,NO,NO,7,YES
+1,0,0,1,1,0,0,1,0,1,22,F,White-European-European,NO,NO,5,NO
+1,1,0,0,0,0,0,1,0,0,20,M,Middle Eastern,NO,NO,3,NO
+0,1,0,0,0,0,1,1,0,1,24,F,Middle Eastern,NO,NO,4,NO
+0,0,0,1,1,0,0,1,1,0,19,M,Middle Eastern,NO,NO,4,NO
+1,1,1,0,1,0,0,1,0,1,21,M,Others ,NO,NO,6,NO
+0,0,0,0,0,0,0,0,0,0,20,M,Middle Eastern,NO,NO,0,NO
+1,1,0,0,0,0,0,0,0,0,18,F,Middle Eastern,NO,NO,2,NO
+0,1,1,0,0,0,0,1,0,1,23,F,Middle Eastern,NO,NO,4,NO
+1,1,1,0,1,1,1,1,0,1,22,M,Middle Eastern,NO,NO,8,YES
+1,1,0,1,1,0,0,0,0,0,18,F,South Asian,NO,YES,4,NO
+1,0,0,0,0,0,0,0,0,1,37,F,Middle Eastern,NO,NO,2,NO
+1,1,1,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,5,NO
+1,1,1,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,2,NO
+1,1,1,0,0,0,0,1,0,0,18,M,Middle Eastern,NO,NO,4,NO
+0,1,0,0,0,0,1,1,0,0,18,M,Middle Eastern,NO,NO,3,NO
+1,1,1,0,0,0,0,1,0,0,18,M,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,19,M,White-European-European,NO,NO,10,YES
+1,0,0,1,1,1,1,0,1,1,55,M,White-European-European,NO,NO,7,YES
+1,0,0,0,0,1,1,0,1,1,32,F,Asian,NO,NO,5,NO
+1,1,0,1,0,0,1,1,0,0,50,M,White-European-European,YES,NO,5,NO
+1,1,1,1,0,0,1,1,0,0,40,M,White-European-European,NO,NO,6,NO
+1,0,0,1,1,1,0,0,0,0,47,M,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,1,20,M,Middle Eastern,NO,NO,3,NO
+1,0,1,0,0,0,1,1,0,0,22,F,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,0,1,0,0,0,21,F,Middle Eastern,NO,NO,2,NO
+1,0,1,1,0,0,1,1,1,0,21,F,Middle Eastern,NO,NO,6,NO
+1,1,1,1,1,0,0,1,0,0,19,M,Middle Eastern,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,0,21,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,21,M,Middle Eastern,NO,NO,2,NO
+0,1,0,1,0,1,0,1,0,1,23,F,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,0,0,0,0,21,M,Middle Eastern,NO,NO,1,NO
+1,0,0,0,1,0,1,1,1,0,21,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,0,23,M,Middle Eastern,NO,NO,1,NO
+1,0,1,1,0,1,1,1,1,1,20,F,Middle Eastern,NO,NO,8,YES
+1,1,1,0,0,0,0,1,0,1,21,F,Middle Eastern,NO,NO,5,NO
+1,1,1,0,1,0,1,1,1,1,20,M,Middle Eastern,NO,NO,8,YES
+1,1,0,0,0,0,1,1,0,0,19,M,Middle Eastern,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,2,NO
+1,0,1,0,0,0,1,0,0,0,26,M,Middle Eastern,NO,YES,3,NO
+0,0,0,1,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,2,NO
+0,0,0,0,1,0,0,1,0,0,19,M,Middle Eastern,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,1,22,M,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,19,F,Middle Eastern,NO,NO,2,NO
+1,0,0,1,0,0,1,0,0,1,22,M,Middle Eastern,NO,NO,4,NO
+0,0,1,0,0,0,0,0,0,1,20,M,Middle Eastern,NO,NO,2,NO
+1,0,1,0,1,0,0,1,0,0,23,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,1,0,1,0,0,19,F,White-European-European,NO,NO,2,NO
+0,0,0,0,1,0,0,1,0,1,20,M,Middle Eastern,NO,NO,3,NO
+0,1,0,1,0,0,0,0,0,0,24,M,Middle Eastern,NO,NO,2,NO
+0,1,1,0,0,0,0,1,0,1,19,M,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,1,0,1,0,1,20,M,Middle Eastern,NO,NO,4,NO
+1,0,1,0,1,0,0,1,0,1,23,M,Middle Eastern,NO,YES,5,NO
+0,0,1,1,0,0,1,0,0,1,20,M,Others ,NO,NO,4,NO
+1,0,1,0,1,0,0,1,0,1,20,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,1,0,20,M,White-European-European,YES,NO,2,NO
+1,0,1,0,0,0,0,0,0,1,20,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,1,0,0,1,0,1,21,F,Asian,NO,NO,5,NO
+0,1,0,0,0,0,0,0,0,1,19,M,Others ,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,1,20,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,1,0,1,0,0,1,20,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,1,0,0,1,0,25,M,Middle Eastern,YES,YES,3,NO
+1,0,0,0,0,0,0,1,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,1,1,1,0,1,22,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,0,20,F,Middle Eastern,NO,NO,2,NO
+0,1,0,0,1,1,0,0,0,0,20,M,White-European-European,NO,NO,3,NO
+0,0,0,1,0,0,1,0,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,23,F,Middle Eastern,NO,NO,2,NO
+1,1,1,1,1,0,1,0,1,1,21,F,Middle Eastern,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,22,M,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,21,F,Middle Eastern,NO,NO,3,NO
+1,0,1,0,0,0,0,0,0,1,20,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,22,F,Middle Eastern,NO,NO,2,NO
+1,0,1,1,1,0,1,1,0,0,21,F,Middle Eastern,YES,NO,6,NO
+1,1,0,0,1,0,0,1,0,0,20,F,Middle Eastern,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,1,0,0,1,0,0,21,M,Middle Eastern,NO,NO,3,NO
+1,0,1,1,1,0,0,0,1,1,21,M,Middle Eastern,NO,NO,6,NO
+0,1,0,0,0,1,0,1,0,1,23,F,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,21,F,Middle Eastern,NO,NO,3,NO
+1,0,0,0,1,1,0,1,0,1,22,F,Black,NO,NO,5,NO
+0,1,1,1,0,1,0,1,0,0,19,F,Middle Eastern,NO,NO,5,NO
+1,1,1,0,1,0,0,0,0,0,20,F,Asian,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,1,21,F,Others ,NO,NO,3,NO
+0,1,1,0,0,0,0,1,0,0,26,M,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,19,F,White-European-European,NO,NO,1,NO
+1,0,0,1,0,0,1,1,0,1,20,F,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,1,26,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,0,0,1,0,0,1,23,F,Black,NO,NO,4,NO
+1,0,0,1,0,0,1,0,0,1,28,F,Middle Eastern,NO,NO,4,NO
+0,1,0,1,1,0,0,0,0,0,19,F,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,1,1,0,0,20,F,Middle Eastern,NO,NO,3,NO
+0,1,0,0,1,0,1,1,0,1,19,F,Black,NO,NO,5,NO
+1,0,1,1,1,1,1,1,1,0,24,M,Asian,NO,NO,8,YES
+1,0,0,1,1,0,0,1,0,1,19,F,Aboriginal,NO,NO,5,NO
+1,1,0,0,0,0,0,0,0,0,22,F,Middle Eastern,NO,NO,2,NO
+1,1,0,1,0,0,0,0,0,1,20,F,Middle Eastern,NO,NO,4,NO
+0,1,0,1,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,3,NO
+0,0,1,1,1,0,0,1,0,0,24,F,Others ,NO,NO,4,NO
+0,0,1,1,1,0,0,0,0,1,18,F,Middle Eastern,NO,NO,4,NO
+1,0,1,1,1,0,1,1,0,1,19,F,Middle Eastern,NO,NO,7,YES
+1,0,1,0,0,0,0,0,0,0,19,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,0,1,1,0,1,31,M,Middle Eastern,YES,NO,4,NO
+1,1,0,1,0,0,1,1,0,0,19,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,1,0,1,1,21,F,Middle Eastern,NO,NO,4,NO
+1,0,0,0,1,0,1,0,0,1,20,M,Middle Eastern,NO,NO,4,NO
+1,0,1,0,1,0,1,1,0,1,26,F,Middle Eastern,NO,NO,6,NO
+0,0,0,0,0,0,1,0,0,0,27,M,Middle Eastern,NO,NO,1,NO
+1,0,1,0,0,1,0,1,0,0,23,F,Middle Eastern,NO,NO,4,NO
+0,1,0,1,0,0,0,0,0,0,29,F,Middle Eastern,NO,NO,2,NO
+1,1,1,1,0,0,1,0,0,0,23,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,1,23,M,Middle Eastern,NO,NO,4,NO
+1,0,1,1,1,1,0,1,1,1,24,M,Asian,NO,YES,8,YES
+1,0,0,1,0,0,1,1,0,0,21,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,1,0,1,0,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,1,0,1,0,1,1,1,0,20,M,Middle Eastern,NO,NO,6,NO
+1,1,1,1,1,1,1,0,1,1,32,F,Black,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,61,M,White-European-European,YES,YES,10,YES
+1,0,0,1,1,0,0,0,0,0,19,M,Others ,NO,NO,3,NO
+1,1,1,1,1,1,0,1,1,0,35,F,White-European-European,NO,NO,8,YES
+1,0,0,0,0,1,0,0,0,1,34,F,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,21,F,Middle Eastern,NO,NO,3,NO
+0,0,1,1,0,0,0,0,0,0,23,F,Middle Eastern,NO,NO,2,NO
+1,1,1,1,0,0,0,0,0,1,19,F,White-European-European,NO,NO,5,NO
+1,1,0,0,1,1,0,1,0,1,36,F,Others ,NO,NO,6,NO
+1,1,0,0,0,0,0,1,0,1,21,F,Middle Eastern,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,23,M,White-European-European,NO,NO,2,NO
+1,0,1,1,1,0,1,0,0,1,17,M,Black,NO,NO,6,NO
+1,0,1,0,0,0,0,0,0,0,22,M,White-European-European,NO,NO,2,NO
+0,1,1,1,1,0,1,0,0,1,33,M,White-European-European,NO,YES,6,NO
+1,1,1,1,1,0,0,1,0,1,23,F,Asian,NO,NO,7,YES
+0,1,1,1,1,1,0,1,0,1,35,F,White-European-European,NO,YES,7,YES
+1,0,0,0,0,0,0,1,0,1,21,M,White-European-European,NO,YES,3,NO
+1,0,0,1,1,0,1,1,1,1,20,F,White-European-European,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,0,29,M,White-European-European,NO,NO,2,NO
+1,1,1,1,1,1,1,0,1,1,59,M,White-European-European,NO,NO,9,YES
+1,1,1,0,0,0,0,1,0,1,18,F,White-European-European,NO,NO,5,NO
+1,1,0,0,0,0,0,1,0,0,19,F,Middle Eastern,NO,NO,3,NO
+0,0,1,1,0,0,0,1,0,0,24,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,0,36,F,White-European-European,NO,NO,7,YES
+0,1,1,1,0,0,0,0,1,1,39,M,Hispanic,NO,NO,5,NO
+0,0,1,1,1,0,0,0,0,1,19,F,Middle Eastern,YES,NO,4,NO
+1,1,0,0,0,0,1,0,0,0,17,F,Black,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,52,M,White-European-European,YES,NO,3,NO
+1,1,0,1,1,0,0,0,0,0,18,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,0,1,0,0,0,30,M,Asian,NO,NO,1,NO
+0,1,1,1,1,1,0,1,1,1,18,M,Middle Eastern,YES,NO,8,YES
+1,1,1,1,1,0,0,1,0,0,27,M,Latino,NO,NO,6,NO
+0,0,0,1,0,0,0,0,0,0,52,F,White-European-European,NO,NO,1,NO
+0,0,0,0,0,0,0,1,0,0,45,F,Asian,NO,NO,1,NO
+0,1,1,1,1,1,0,0,1,0,25,F,Others ,NO,NO,6,NO
+0,0,0,1,0,0,1,0,0,1,29,F,White-European-European,NO,NO,3,NO
+1,1,0,1,1,1,1,1,0,1,29,F,White-European-European,YES,NO,8,YES
+1,0,0,0,0,1,0,0,0,1,18,M,White-European-European,NO,YES,3,NO
+0,0,1,1,0,1,1,1,1,1,18,M,White-European-European,NO,NO,7,YES
+1,0,1,1,0,1,0,0,0,1,17,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,27,F,Asian,NO,NO,10,YES
+0,0,0,0,0,0,0,1,0,0,22,F,Asian,YES,NO,1,NO
+0,0,0,0,0,1,0,1,1,0,23,M,Asian,NO,NO,3,NO
+1,1,1,1,1,0,1,1,0,0,25,M,Latino,NO,NO,7,YES
+1,0,1,1,1,0,0,0,0,0,23,F,South Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,1,29,M,Asian,NO,NO,3,NO
+1,0,0,1,1,0,1,0,0,0,27,F,Asian,NO,NO,4,NO
+1,0,0,0,0,1,0,1,0,0,27,F,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,43,F,South Asian,NO,NO,0,NO
+1,0,0,0,0,0,0,1,0,0,26,F,Asian,NO,NO,2,NO
+1,0,0,0,1,0,0,1,0,1,30,F,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,0,23,M,White-European-European,NO,NO,1,NO
+1,0,0,0,1,0,1,1,0,0,29,F,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,1,37,M,White-European-European,NO,NO,2,NO
+0,0,0,0,0,0,1,0,0,1,28,F,White-European-European,NO,NO,2,NO
+1,1,1,1,0,0,1,1,0,0,25,M,Aboriginal,NO,NO,6,NO
+1,0,1,1,0,0,1,1,0,0,25,M,Others ,NO,NO,5,NO
+0,1,0,0,0,0,0,1,1,0,21,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,1,1,0,1,1,43,M,White-European-European,NO,NO,9,YES
+1,1,0,1,1,1,0,0,1,1,30,F,White-European-European,NO,NO,7,YES
+0,1,1,0,0,0,1,0,0,1,18,M,Black,NO,NO,4,NO
+1,1,1,1,0,0,0,1,0,0,18,F,White-European-European,NO,NO,5,NO
+1,1,1,1,0,0,1,1,1,0,30,M,Others ,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,31,F,White-European-European,NO,NO,0,NO
+1,0,0,0,1,0,1,1,0,1,33,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,33,M,Latino,NO,NO,10,YES
+1,1,1,1,0,0,1,0,0,1,26,M,White-European-European,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,0,61,F,White-European-European,NO,NO,3,NO
+0,0,0,1,0,0,0,1,0,1,46,M,Others ,NO,NO,3,NO
+0,1,1,1,1,1,1,0,1,1,33,M,Asian,NO,NO,8,YES
+1,1,1,1,1,0,1,1,0,1,38,F,Black,NO,NO,8,YES
+1,1,0,0,0,0,0,1,0,0,44,M,Black,NO,NO,3,NO
+0,1,1,1,1,0,0,0,1,0,48,F,Black,NO,YES,5,NO
+1,1,0,1,1,1,0,1,1,1,42,F,Latino,YES,NO,8,YES
+0,1,0,0,1,0,1,1,0,0,37,M,White-European-European,NO,NO,4,NO
+1,0,1,1,1,0,0,1,0,1,23,F,White-European-European,NO,YES,6,NO
+1,0,1,1,1,0,1,1,1,1,24,M,White-European-European,NO,YES,8,YES
+1,0,1,0,1,0,1,1,0,1,41,M,Middle Eastern,YES,YES,6,NO
+1,0,1,0,0,0,1,0,0,1,41,M,Asian,NO,NO,4,NO
+0,1,1,0,1,0,0,1,0,0,27,M,White-European-European,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,46,F,White-European-European,YES,YES,10,YES
+0,1,0,0,0,0,0,0,0,1,40,F,White-European-European,YES,NO,2,NO
+0,1,1,1,1,1,1,1,0,1,22,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,1,0,1,1,42,M,White-European-European,NO,NO,9,YES
+1,1,1,0,0,0,0,0,0,1,18,F,Asian,NO,NO,4,NO
+1,0,1,1,0,0,0,0,0,0,44,F,White-European-European,NO,NO,3,NO
+1,1,1,1,1,0,1,1,1,1,30,F,White-European-European,NO,NO,9,YES
+1,1,1,1,1,1,0,1,1,1,42,M,White-European-European,NO,NO,9,YES
+1,1,0,1,0,0,1,0,0,0,35,F,White-European-European,NO,YES,4,NO
+1,0,1,1,1,0,1,0,1,1,40,M,Black,NO,NO,7,YES
+0,1,0,0,0,0,0,0,1,1,50,F,Middle Eastern,NO,NO,3,NO
+0,0,1,1,0,0,0,0,0,1,38,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,1,26,F,White-European-European,NO,YES,8,YES
+1,1,1,1,1,0,0,1,0,1,27,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,0,1,0,1,0,47,F,White-European-European,YES,YES,7,YES
+1,1,0,1,1,1,0,0,0,1,21,M,Black,YES,YES,6,NO
+1,1,1,1,0,1,0,1,1,1,37,M,White-European-European,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,19,F,Others ,NO,NO,4,NO
+0,0,0,1,0,0,1,1,0,1,32,M,Asian,NO,NO,4,NO
+0,0,0,0,1,0,0,1,0,1,26,F,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,46,F,Aboriginal,YES,YES,10,YES
+0,1,0,0,0,0,0,1,0,0,29,M,Black,NO,NO,2,NO
+1,0,0,0,1,0,0,0,0,0,30,F,Black,NO,NO,2,NO
+1,1,0,0,0,0,1,1,0,0,32,F,Latino,NO,NO,4,NO
+0,1,1,1,0,0,0,0,0,1,35,F,White-European-European,YES,NO,4,NO
+0,1,1,1,1,1,1,1,1,1,22,M,White-European-European,NO,NO,9,YES
+0,0,0,1,1,0,1,0,0,1,19,F,Middle Eastern,NO,NO,4,NO
+0,1,0,0,1,0,0,0,0,1,24,M,Middle Eastern,NO,NO,3,NO
+0,1,0,0,1,0,0,0,0,0,52,F,Middle Eastern,NO,NO,2,NO
+0,1,0,0,1,1,0,0,1,1,52,M,Middle Eastern,NO,NO,5,NO
+1,0,1,0,0,1,0,1,0,0,32,F,White-European-European,NO,NO,4,NO
+0,1,1,1,1,1,0,0,0,1,24,M,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,24,M,White-European-European,NO,NO,9,YES
+0,1,0,0,0,0,0,0,0,0,49,F,Middle Eastern,YES,NO,1,NO
+0,1,1,1,1,1,1,1,1,1,30,F,Asian,NO,NO,9,YES
+0,1,1,1,1,1,1,1,1,1,30,F,Asian,NO,YES,9,YES
+1,0,1,1,1,1,1,1,1,1,35,F,White-European-European,YES,NO,9,YES
+1,0,1,1,1,1,1,0,0,1,35,F,White-European-European,YES,NO,7,YES
+1,0,1,1,0,0,0,0,0,1,37,F,White-European-European,NO,YES,4,NO
+0,1,1,1,0,0,0,1,0,1,43,M,White-European-European,NO,NO,5,NO
+1,1,1,1,0,0,1,0,0,1,52,M,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,44,M,White-European-European,NO,YES,10,YES
+1,1,0,0,0,0,0,0,0,0,46,F,White-European-European,NO,YES,2,NO
+1,0,0,0,1,0,0,0,0,1,42,F,White-European-European,NO,YES,3,NO
+0,0,1,0,0,0,0,0,0,0,20,M,Asian,NO,NO,1,NO
+1,1,1,0,1,0,1,0,1,1,18,M,Middle Eastern,NO,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,38,M,White-European-European,NO,NO,9,YES
+1,0,0,1,1,0,0,1,0,0,24,F,Latino,NO,YES,4,NO
+1,1,0,0,0,0,0,1,0,0,32,M,Middle Eastern,NO,NO,3,NO
+1,1,0,1,1,0,0,0,0,0,29,M,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,1,1,1,0,1,22,F,White-European-European,NO,NO,9,YES
+0,1,1,1,1,1,0,0,0,1,19,F,White-European-European,YES,NO,6,NO
+1,1,1,1,1,1,1,0,1,1,39,F,White-European-European,NO,YES,9,YES
+1,0,0,1,1,1,1,1,1,1,17,M,Black,NO,NO,8,YES
+0,1,0,1,0,1,1,0,1,1,19,F,Middle Eastern,NO,NO,6,NO
+1,0,0,0,0,0,1,1,1,0,18,M,White-European-European,NO,NO,4,NO
+0,1,0,0,1,1,0,0,1,0,19,M,White-European-European,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,28,F,Middle Eastern,NO,NO,2,NO
+0,1,0,1,0,1,0,0,0,1,29,M,Asian,NO,NO,4,NO
+1,1,0,0,0,0,1,1,0,0,48,M,White-European-European,NO,NO,4,NO
+1,1,1,1,1,1,0,1,1,1,27,F,White-European-European,YES,YES,9,YES
+1,0,1,1,0,0,0,0,0,0,34,F,White-European-European,NO,NO,3,NO
+1,1,0,1,0,0,0,0,0,1,31,M,White-European-European,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,1,47,M,Middle Eastern,NO,NO,3,NO
+1,0,0,1,0,0,0,1,0,0,47,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,44,M,White-European-European,NO,YES,10,YES
+1,0,0,0,1,0,1,1,0,0,25,F,White-European-European,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,25,F,White-European-European,NO,NO,4,NO
+1,1,0,0,1,1,1,1,1,1,20,M,White-European-European,NO,NO,8,YES
+1,1,1,1,1,0,1,1,1,1,43,M,White-European-European,YES,NO,9,YES
+1,1,1,1,1,0,0,1,1,1,36,F,White-European-European,NO,YES,8,YES
+1,1,0,0,0,0,0,1,0,0,30,F,Asian,NO,YES,3,NO
+0,0,1,1,0,0,0,0,0,0,44,M,Black,NO,NO,2,NO
+1,1,0,0,1,0,0,0,0,1,40,F,Black,NO,NO,4,NO
+1,1,0,0,1,1,0,1,1,0,40,F,Black,YES,NO,6,NO
+1,1,0,1,1,1,0,1,1,0,40,F,Black,YES,YES,7,YES
+1,1,1,1,1,0,0,1,0,1,30,M,Others ,NO,NO,7,YES
+1,0,1,1,0,0,1,0,0,1,47,F,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,21,M,Black,NO,NO,10,YES
+1,1,1,1,1,1,0,1,1,1,21,M,Black,NO,NO,9,YES
+1,0,1,1,1,1,1,1,1,1,31,F,Asian,NO,NO,9,YES
+1,1,1,0,0,0,0,0,0,0,21,F,Asian,NO,NO,3,NO
+0,1,1,1,0,0,0,1,1,0,29,F,Asian,NO,NO,5,NO
+0,1,1,1,1,0,1,0,1,0,22,M,Middle Eastern,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,51,M,White-European-European,YES,NO,10,YES
+1,0,0,0,0,0,0,0,0,0,23,M,White-European-European,NO,NO,1,NO
+1,0,0,0,1,0,0,0,1,1,30,M,Asian,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,22,M,Others ,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,1,22,M,Asian,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,1,24,M,Asian,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,1,26,F,South Asian,NO,NO,3,NO
+1,0,1,1,0,0,0,1,1,1,33,F,Asian,NO,NO,6,NO
+1,0,0,0,0,0,0,1,1,0,23,M,Asian,NO,NO,3,NO
+1,0,1,0,0,0,0,1,0,0,42,F,Asian,NO,NO,3,NO
+1,0,1,0,0,0,0,0,0,0,26,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,29,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,35,F,Asian,NO,NO,3,NO
+1,0,0,0,1,1,0,1,0,0,25,F,South Asian,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,0,25,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,1,0,0,28,F,Asian,YES,NO,1,NO
+1,0,0,0,0,0,0,0,0,0,33,M,White-European-European,NO,NO,1,NO
+1,0,0,1,0,0,1,1,0,0,25,M,Asian,NO,NO,4,NO
+0,0,1,0,1,1,0,1,0,1,25,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,1,0,0,24,M,Asian,NO,NO,4,NO
+1,1,1,1,0,0,0,0,0,1,27,F,South Asian,NO,NO,5,NO
+1,0,0,0,0,0,0,0,0,0,22,M,South Asian,NO,NO,1,NO
+1,1,0,1,0,0,0,1,0,1,21,F,South Asian,NO,NO,5,NO
+1,0,1,1,0,1,0,1,0,1,27,F,South Asian,NO,NO,6,NO
+1,0,0,0,1,0,1,0,0,0,23,M,South Asian,NO,NO,3,NO
+0,0,0,1,1,0,0,1,0,1,22,M,Asian,NO,NO,4,NO
+0,1,0,0,0,0,0,0,0,1,23,F,South Asian,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,1,30,M,Asian,NO,NO,4,NO
+0,1,0,0,1,0,1,1,0,0,33,M,Asian,NO,NO,4,NO
+1,0,1,1,1,0,1,1,1,0,24,F,South Asian,NO,NO,7,YES
+1,0,0,0,1,0,1,1,0,0,22,F,Asian,NO,NO,4,NO
+1,0,0,1,1,0,1,1,1,1,22,M,Asian,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,1,29,F,South Asian,NO,NO,3,NO
+1,0,1,0,1,0,1,1,0,1,22,F,Asian,NO,NO,6,NO
+1,0,1,0,0,0,0,1,0,0,21,M,Asian,YES,NO,3,NO
+1,0,0,0,0,0,1,1,0,0,23,M,Asian,NO,NO,3,NO
+1,0,0,0,1,0,1,1,0,1,23,F,Others ,NO,NO,5,NO
+1,0,0,0,1,0,1,1,1,1,23,F,Asian,NO,NO,6,NO
+1,1,0,1,1,0,1,1,0,0,32,M,Asian,NO,NO,6,NO
+0,0,0,0,0,0,1,0,0,1,27,M,Asian,NO,NO,2,NO
+0,0,1,0,0,0,0,1,0,0,28,F,Asian,NO,NO,2,NO
+1,1,0,0,1,0,0,1,1,1,25,F,Middle Eastern,NO,NO,6,NO
+1,0,1,0,1,0,1,1,1,1,22,M,Black,NO,NO,7,YES
+0,1,1,0,0,0,1,0,0,1,36,M,White-European-European,NO,NO,4,NO
+1,1,1,1,1,0,1,1,1,1,30,M,Asian,NO,NO,9,YES
+1,0,0,1,1,0,1,0,0,1,38,F,White-European-European,NO,YES,5,NO
+1,0,0,0,1,0,1,0,1,1,22,M,Asian,NO,NO,5,NO
+1,1,0,0,1,0,1,0,1,0,36,M,White-European-European,NO,NO,5,NO
+0,0,1,1,0,0,1,0,0,0,43,M,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,0,0,1,1,44,M,Asian,NO,NO,8,YES
+1,1,1,0,1,1,0,1,1,1,20,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,0,1,1,1,40,F,Others ,YES,YES,9,YES
+1,0,0,1,1,1,0,0,1,0,25,M,White-European-European,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,1,28,M,White-European-European,NO,NO,4,NO
+0,0,0,0,0,0,1,1,0,1,17,M,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,1,0,1,1,34,M,White-European-European,NO,NO,9,YES
+0,0,0,0,0,0,0,1,0,0,56,M,Middle Eastern,NO,NO,1,NO
+0,0,1,0,0,0,1,1,0,0,50,F,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,1,1,0,1,38,M,White-European-European,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,47,M,White-European-European,NO,NO,10,YES
+1,1,1,1,1,0,1,1,1,1,30,M,Others ,NO,NO,9,YES
+1,1,1,1,1,0,0,1,0,1,21,M,Hispanic,NO,NO,7,YES
+1,1,1,1,1,0,1,1,0,1,21,M,White-European-European,NO,NO,8,YES
+1,1,1,0,1,0,1,1,1,1,31,M,Latino,NO,NO,8,YES
+1,1,0,0,1,1,0,1,0,1,27,F,White-European-European,YES,NO,6,NO
+1,1,1,1,0,0,0,0,1,0,24,F,White-European-European,YES,NO,5,NO
+1,1,0,0,0,0,1,0,0,1,35,M,White-European-European,YES,NO,4,NO
+1,0,0,0,0,0,1,0,0,1,18,M,Black,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,1,43,F,Black,NO,NO,8,YES
+1,1,1,1,1,1,1,1,1,1,44,M,White-European-European,NO,YES,10,YES
+1,1,1,1,1,1,1,1,1,1,40,M,White-European-European,YES,YES,10,YES
+1,1,0,1,1,1,1,1,1,1,49,F,Hispanic,NO,NO,9,YES
+1,1,0,0,0,0,0,1,0,0,24,M,Hispanic,NO,NO,3,NO
+1,1,0,0,0,0,0,1,1,0,30,F,White-European-European,YES,YES,4,NO
+1,0,1,0,0,0,0,1,0,1,53,M,Hispanic,NO,NO,4,NO
+1,0,1,1,1,0,0,1,1,1,38,M,White-European-European,NO,YES,7,YES
+1,0,0,0,1,0,1,1,0,1,28,M,White-European-European,NO,NO,5,NO
+1,1,1,0,1,1,1,1,1,1,28,M,White-European-European,NO,NO,9,YES
+1,0,1,1,1,1,1,0,1,1,26,M,Black,NO,NO,8,YES
+1,0,0,0,1,1,1,1,1,1,39,F,White-European-European,NO,NO,7,YES
+0,0,0,0,1,0,0,0,0,0,31,F,Asian,YES,NO,1,NO
+1,0,0,1,0,0,1,1,0,0,24,M,Black,NO,NO,4,NO
+1,1,1,0,1,1,1,1,0,1,28,M,White-European-European,NO,NO,8,YES
+1,0,0,1,0,0,0,1,0,1,31,F,White-European-European,NO,NO,4,NO
+1,1,1,1,1,0,0,1,0,1,27,M,White-European-European,YES,NO,7,YES
+1,0,1,1,0,0,1,1,0,0,28,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,31,M,Middle Eastern,NO,YES,9,YES
+1,1,1,1,1,0,0,0,0,1,46,F,Asian,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,27,F,Aboriginal,NO,NO,10,YES
+0,1,0,1,1,0,1,1,1,1,25,F,White-European-European,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,1,34,M,Hispanic,NO,NO,3,NO
+1,0,1,1,1,0,1,1,0,1,24,F,White-European-European,NO,NO,7,YES
+1,0,0,1,1,0,1,0,1,1,35,M,South Asian,NO,NO,6,NO
+1,0,1,1,1,0,1,1,1,1,26,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,1,1,0,0,40,M,White-European-European,NO,NO,8,YES
+1,0,0,0,0,1,0,1,1,1,20,M,Aboriginal,NO,NO,5,NO
+1,1,1,0,1,0,0,1,0,0,22,M,Others ,NO,NO,5,NO
+1,1,1,1,1,0,0,1,1,1,31,M,Latino,NO,NO,8,YES
+1,0,1,1,0,0,0,0,0,0,30,M,White-European-European,NO,NO,3,NO
+1,0,0,0,1,0,1,0,0,0,22,M,South Asian,NO,NO,3,NO
+1,0,1,1,1,0,1,0,1,1,35,M,Asian,NO,YES,7,YES
+1,0,1,0,0,0,0,0,1,1,34,M,Aboriginal,NO,NO,4,NO
+1,0,0,1,1,0,1,0,0,1,27,F,Hispanic,NO,NO,5,NO
+1,0,1,0,0,0,0,0,0,0,24,M,White-European-European,NO,NO,2,NO
+1,1,1,1,1,1,0,0,0,0,22,M,Black,NO,NO,6,NO
+1,1,1,0,0,0,0,1,0,0,36,F,Asian,NO,YES,4,NO
+0,1,0,0,0,0,0,1,0,0,33,M,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,0,0,0,0,0,50,M,White-European-European,NO,NO,1,NO
+1,1,1,1,1,1,1,1,0,1,21,M,White-European-European,NO,YES,9,YES
+1,1,1,1,1,1,1,1,1,1,24,M,White-European-European,NO,NO,10,YES
+0,1,1,1,1,0,0,1,1,1,43,F,White-European-European,NO,YES,7,YES
+1,0,1,1,0,0,1,0,1,0,44,M,White-European-European,NO,YES,5,NO
+0,1,0,0,1,1,0,1,1,1,44,M,White-European-European,NO,YES,6,NO
+1,0,1,1,1,1,0,1,1,0,46,M,White-European-European,NO,NO,7,YES
+0,0,1,1,1,1,0,1,1,0,46,M,White-European-European,NO,NO,6,NO
+1,0,1,1,0,0,1,1,0,1,34,F,Middle Eastern,YES,YES,6,NO
+1,1,1,1,1,1,1,1,1,1,47,M,White-European-European,NO,NO,10,YES
+1,1,0,0,0,0,1,1,1,1,41,M,White-European-European,YES,NO,6,NO
+1,0,1,0,0,0,0,1,0,0,45,M,Aboriginal,NO,NO,3,NO
+0,1,1,1,0,0,0,1,1,1,23,M,White-European-European,NO,NO,6,NO
+1,0,0,1,0,0,1,0,0,1,29,F,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,0,1,1,1,0,22,F,Others ,NO,NO,8,YES
+0,0,0,1,1,0,0,0,0,1,40,M,White-European-European,NO,NO,3,NO
+1,1,0,0,0,0,0,0,0,0,37,M,White-European-European,NO,NO,2,NO
+1,0,1,1,0,0,0,1,1,0,22,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,17,F,White-European-European,NO,NO,9,YES
+1,1,1,1,0,0,0,0,0,0,19,M,Others ,NO,NO,4,NO
+0,1,0,0,0,0,0,0,1,0,50,F,Others ,NO,NO,2,NO
+1,1,1,1,1,0,1,0,1,1,27,M,Black,NO,NO,8,YES
+1,1,0,1,1,1,0,0,0,1,32,M,Latino,YES,YES,6,NO
+1,1,0,1,1,1,1,1,0,1,32,M,Latino,YES,YES,8,YES
+1,1,1,1,1,0,0,1,0,1,23,M,White-European-European,NO,NO,7,YES
+0,0,1,1,0,0,0,0,0,1,22,F,White-European-European,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,1,29,M,White-European-European,NO,NO,4,NO
+0,1,0,1,1,0,0,0,0,1,45,M,White-European-European,YES,NO,4,NO
+1,1,1,1,0,0,0,1,0,0,23,F,White-European-European,NO,NO,5,NO
+1,1,0,1,0,0,0,1,0,0,23,F,White-European-European,NO,NO,4,NO
+1,0,0,1,1,0,1,1,1,1,31,F,White-European-European,NO,NO,7,YES
+0,1,1,1,0,0,0,0,0,0,20,M,White-European-European,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,1,20,F,White-European-European,NO,NO,1,NO
+1,1,0,1,1,1,1,1,1,1,39,F,White-European-European,NO,NO,9,YES
+1,0,1,1,0,0,0,0,0,0,62,F,White-European-European,NO,NO,3,NO
+0,1,1,1,1,1,1,1,1,1,63,M,White-European-European,NO,YES,9,YES
+0,1,1,1,1,1,1,1,1,1,35,M,Black,NO,NO,9,YES
+1,0,0,1,1,1,1,1,1,1,27,F,White-European-European,YES,NO,8,YES
+1,1,0,1,1,1,1,1,1,1,20,M,White-European-European,NO,NO,9,YES
+1,1,1,1,0,0,0,0,0,1,22,M,Middle Eastern,YES,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,32,F,White-European-European,NO,NO,10,YES
+1,1,1,1,1,1,0,0,1,1,30,M,White-European-European,NO,NO,8,YES
+1,0,0,1,0,0,0,0,0,0,36,M,White-European-European,YES,NO,2,NO
+0,0,1,0,1,0,1,1,0,1,50,M,White-European-European,NO,NO,5,NO
+1,0,0,1,1,0,1,0,1,1,23,F,White-European-European,NO,NO,6,NO
+1,0,1,0,1,0,1,1,1,1,21,M,White-European-European,NO,NO,7,YES
+1,1,1,1,0,0,1,1,0,0,33,F,Middle Eastern,NO,NO,6,NO
+1,0,1,1,1,1,1,1,1,0,42,F,Others ,NO,NO,8,YES
+0,0,1,1,0,0,0,0,0,0,24,F,White-European-European,NO,NO,2,NO
+1,1,1,1,1,1,1,1,1,0,28,F,White-European-European,NO,NO,9,YES
+1,0,1,0,0,0,0,0,0,0,32,M,White-European-European,NO,NO,2,NO
+0,1,0,0,1,0,1,1,0,1,52,F,White-European-European,NO,NO,5,NO
+1,0,1,1,1,1,1,1,0,1,25,F,Others ,NO,NO,8,YES
+1,0,0,0,0,0,0,0,0,0,29,F,Hispanic,NO,YES,1,NO
+1,0,1,0,1,0,1,1,0,1,23,F,White-European-European,YES,YES,6,NO
+1,1,1,1,0,0,0,1,0,1,24,F,White-European-European,NO,NO,6,NO
+1,1,1,1,0,0,0,1,1,0,41,F,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,0,1,37,M,White-European-European,NO,NO,8,YES
+1,0,1,1,1,1,1,1,0,0,22,M,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,1,1,1,1,17,F,Black,NO,NO,10,YES
+1,0,0,0,0,0,0,1,0,1,27,M,Hispanic,NO,NO,3,NO
+0,1,1,1,1,1,1,1,1,1,27,M,Hispanic,NO,NO,9,YES
+1,1,1,0,0,0,0,1,0,1,36,F,White-European-European,NO,YES,5,NO
+1,1,1,1,1,0,0,1,0,1,20,F,Latino,NO,NO,7,YES
+1,0,0,0,1,0,1,0,0,1,36,F,White-European-European,NO,YES,4,NO
+0,0,1,0,1,0,0,1,0,1,38,F,Asian,YES,NO,4,NO
+1,1,1,1,1,1,1,0,1,1,28,F,Asian,NO,NO,9,YES
+1,0,1,1,1,1,0,1,0,1,30,F,Asian,NO,NO,7,YES
+1,0,0,0,1,1,0,1,1,1,27,M,White-European-European,NO,YES,6,NO
+1,1,1,0,0,0,0,0,0,0,69,F,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,0,1,0,1,60,M,White-European-European,NO,NO,8,YES
+1,1,0,1,1,1,1,1,0,1,21,M,Asian,NO,NO,8,YES
+1,1,0,1,0,0,0,1,0,0,28,F,White-European-European,YES,NO,4,NO
+1,0,1,1,0,1,0,1,1,1,29,M,White-European-European,NO,NO,7,YES
+0,1,1,1,1,1,1,1,1,1,18,M,White-European-European,NO,NO,9,YES
+1,1,0,1,1,1,1,1,1,1,29,F,Others ,NO,NO,9,YES
+1,1,1,1,1,0,1,1,1,0,30,F,Latino,NO,NO,8,YES
+1,0,0,1,1,1,0,0,0,1,42,F,White-European-European,NO,NO,5,NO
+1,0,1,1,1,1,1,1,1,1,27,M,White-European-European,NO,NO,9,YES
+1,0,1,0,1,1,1,1,1,1,40,M,White-European-European,NO,NO,8,YES
+1,1,1,1,1,0,1,1,0,1,32,F,White-European-European,YES,NO,8,YES
+1,1,0,1,1,1,0,0,1,1,30,F,White-European-European,NO,NO,7,YES
+1,0,1,1,1,0,0,1,1,1,32,F,Latino,NO,YES,7,YES
+0,0,1,1,0,1,1,0,0,1,20,F,White-European-European,NO,NO,5,NO
+0,1,1,0,0,0,0,0,0,0,30,F,White-European-European,NO,NO,2,NO
+1,0,0,0,0,0,1,1,0,1,33,M,Middle Eastern,NO,NO,4,NO
+1,1,0,1,1,1,0,1,1,1,18,F,White-European-European,NO,NO,8,YES
+1,0,0,0,0,0,0,0,1,0,37,F,White-European-European,NO,NO,2,NO
+1,0,0,0,0,0,0,0,0,0,37,F,White-European-European,NO,NO,1,NO
+1,1,1,1,0,0,0,1,0,0,55,M,White-European-European,NO,NO,5,NO
+0,0,1,1,1,0,0,0,1,1,23,F,White-European-European,NO,NO,5,NO
+1,0,1,1,1,1,1,1,1,1,40,M,White-European-European,NO,NO,9,YES
+1,1,1,0,0,0,0,0,0,1,27,F,White-European-European,NO,NO,4,NO
+0,1,0,1,0,0,0,1,0,1,24,M,Asian,NO,NO,4,NO
+1,0,0,1,1,0,1,1,0,1,37,F,White-European-European,NO,NO,6,NO
+1,0,1,1,0,0,0,1,0,1,31,F,White-European-European,NO,YES,5,NO
+0,1,0,0,1,0,0,0,0,1,49,F,Middle Eastern,NO,NO,3,NO
+0,1,0,0,1,0,1,0,0,0,29,F,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,0,1,1,0,36,F,White-European-European,NO,NO,8,YES
+1,0,1,1,0,0,0,1,1,1,35,F,White-European-European,NO,YES,6,NO
+1,0,0,1,1,1,1,1,0,1,35,F,White-European-European,NO,YES,7,YES
+1,0,0,0,1,0,1,1,0,0,22,M,White-European-European,NO,NO,4,NO
+0,1,1,1,1,0,1,0,0,1,22,M,Asian,NO,NO,6,NO
+0,1,0,1,1,1,1,0,1,0,21,M,Asian,NO,NO,6,NO
+1,1,1,1,0,0,1,1,0,0,28,F,White-European-European,NO,NO,6,NO
+1,1,1,1,0,0,0,1,0,0,43,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,32,M,White-European-European,NO,NO,9,YES
+1,0,0,0,1,0,1,1,0,1,29,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,1,1,1,1,1,1,29,M,Middle Eastern,NO,NO,7,YES
+1,0,0,0,1,1,0,1,1,0,22,F,Asian,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,35,F,Black,NO,NO,10,YES
+1,1,0,1,1,1,1,1,1,0,28,F,White-European-European,NO,NO,8,YES
+0,0,1,0,1,0,1,1,0,1,34,M,Asian,NO,YES,5,NO
+1,1,1,0,0,1,1,1,0,1,18,F,Middle Eastern,NO,NO,7,YES
+1,0,0,0,1,0,0,1,0,1,27,F,White-European-European,NO,NO,4,NO
+1,0,1,0,0,0,1,0,0,1,76,M,White-European-European,NO,YES,4,NO
+0,0,0,0,0,0,0,0,0,0,76,F,White-European-European,NO,YES,0,NO
+1,0,0,0,1,1,1,1,0,1,26,M,Asian,NO,NO,6,NO
+1,0,0,0,1,1,1,1,0,1,26,M,Asian,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,25,F,White-European-European,NO,NO,10,YES
+1,0,1,0,1,0,1,1,1,1,17,M,White-European-European,NO,YES,7,YES
+1,1,0,0,0,0,0,1,0,0,38,M,Latino,NO,NO,3,NO
+1,1,1,1,0,0,0,1,0,0,36,M,Asian,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,47,F,White-European-European,NO,NO,9,YES
+1,0,1,1,1,1,1,0,1,1,19,M,Middle Eastern,NO,NO,8,YES
+1,0,1,1,1,1,1,1,1,1,37,F,White-European-European,NO,YES,9,YES
+1,0,1,1,1,1,1,1,0,1,33,M,Latino,NO,NO,8,YES
+1,0,1,0,1,1,1,1,1,1,23,M,White-European-European,NO,YES,8,YES
+1,1,0,0,0,0,0,1,1,0,20,M,White-European-European,NO,YES,4,NO
+0,0,0,0,0,0,0,0,0,0,21,F,White-European-European,NO,NO,0,NO
+0,0,1,1,1,0,1,1,0,1,34,M,Asian,NO,YES,6,NO
+1,0,1,1,1,1,1,1,1,1,18,M,Black,NO,NO,9,YES
+1,1,1,1,1,0,0,0,0,1,38,M,White-European-European,NO,NO,6,NO
+1,1,0,0,0,0,0,0,0,0,23,F,White-European-European,NO,NO,2,NO
+0,1,1,0,1,1,1,1,0,1,18,M,White-European-European,NO,YES,7,YES
+1,1,1,1,1,1,1,1,1,0,18,M,Black,NO,NO,9,YES
+1,1,1,0,0,0,0,1,0,0,22,M,Others ,NO,YES,4,NO
+1,1,0,0,0,0,0,1,0,1,17,F,White-European-European,NO,NO,4,NO
+1,1,0,0,0,0,0,0,1,0,19,F,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,1,1,0,0,18,F,White-European-European,NO,YES,3,NO
+0,1,1,1,0,0,0,0,0,0,48,F,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,54,M,White-European-European,NO,NO,1,NO
+1,1,0,1,0,0,1,1,1,0,18,M,White-European-European,NO,NO,6,NO
+1,1,0,0,0,0,0,1,0,0,35,F,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,18,M,Black,NO,NO,10,YES
+1,0,0,0,0,0,1,1,0,1,30,F,Asian,NO,YES,4,NO
+1,1,1,1,0,1,1,1,0,1,35,M,White-European-European,NO,YES,8,YES
+1,1,0,1,0,0,0,0,0,1,17,M,Hispanic,NO,NO,4,NO
+1,0,1,0,0,0,0,0,1,1,25,M,White-European-European,NO,NO,4,NO
+1,0,0,0,1,0,1,1,1,1,43,F,White-European-European,NO,NO,6,NO
+1,1,1,0,1,1,1,1,1,0,29,F,White-European-European,NO,NO,8,YES
+0,0,0,0,0,0,0,0,0,0,45,M,White-European-European,NO,NO,0,NO
+1,1,1,1,1,1,0,1,1,1,26,F,White-European-European,NO,YES,9,YES
+1,1,1,1,1,1,1,0,1,1,43,F,White-European-European,NO,NO,9,YES
+1,1,0,1,1,0,0,0,0,1,30,F,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,1,0,0,1,50,M,White-European-European,NO,NO,8,YES
+1,1,0,0,0,0,1,1,1,1,18,M,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,20,M,White-European-European,NO,YES,10,YES
+1,0,0,0,0,0,1,1,0,1,42,M,White-European-European,NO,NO,4,NO
+1,1,1,0,1,1,0,1,0,1,29,M,White-European-European,NO,NO,7,YES
+0,0,1,0,0,0,0,0,0,0,29,F,Asian,NO,NO,1,NO
+1,1,0,0,0,0,0,0,0,0,29,M,White-European-European,NO,NO,2,NO
+1,0,1,0,0,0,1,1,0,1,36,F,White-European-European,NO,YES,5,NO
+1,1,1,0,0,0,1,1,1,1,35,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,39,M,White-European-European,YES,YES,9,YES
+1,1,1,1,1,1,0,1,0,1,29,F,White-European-European,YES,YES,8,YES
+1,1,0,1,0,0,0,1,0,0,31,M,White-European-European,NO,NO,4,NO
+0,1,0,0,1,0,0,0,1,1,70,M,White-European-European,NO,NO,4,NO
+1,1,0,1,1,0,0,1,0,1,44,M,Black,NO,NO,6,NO
+1,0,1,0,0,0,0,0,0,0,38,M,Black,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,1,40,M,White-European-European,NO,YES,4,NO
+1,1,1,0,1,0,0,1,0,1,40,M,White-European-European,NO,YES,6,NO
+1,1,1,0,1,1,0,1,0,1,33,F,White-European-European,YES,YES,7,YES
+1,0,0,1,0,1,1,1,1,1,26,F,White-European-European,NO,NO,7,YES
+0,1,1,0,1,0,0,0,1,1,24,M,White-European-European,NO,NO,5,NO
+1,1,0,1,0,1,0,0,1,1,27,F,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,18,M,Black,NO,NO,10,YES
+1,1,1,1,1,1,1,1,1,1,18,F,Black,NO,NO,10,YES
+1,1,0,0,0,1,0,1,0,0,18,M,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,1,1,0,1,1,41,M,White-European-European,NO,YES,9,YES
+1,1,0,1,0,0,1,1,0,1,30,M,White-European-European,NO,NO,6,NO
+0,0,0,1,1,0,0,0,0,1,17,M,Asian,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,42,M,White-European-European,NO,YES,10,YES
+0,1,1,1,1,1,0,0,0,0,30,F,South Asian,NO,NO,5,NO
+1,0,0,0,1,1,1,1,1,1,48,F,White-European-European,NO,YES,7,YES
+1,0,1,1,1,1,1,1,0,1,27,M,White-European-European,NO,YES,8,YES
+0,1,1,1,0,0,0,0,0,0,36,M,Middle Eastern,NO,NO,3,NO
+1,0,1,0,1,0,0,1,0,0,19,M,White-European-European,NO,YES,4,NO
+1,1,0,1,0,0,0,0,0,0,38,F,White-European-European,NO,NO,3,NO
+1,1,0,1,0,0,0,1,1,0,23,M,White-European-European,NO,NO,5,NO
+0,1,0,0,1,0,0,0,0,0,23,M,Asian,NO,NO,2,NO
+1,1,1,1,1,1,1,1,1,1,21,F,White-European-European,NO,NO,10,YES
+1,0,0,1,1,0,0,1,1,1,39,F,White-European-European,NO,YES,6,NO
+1,1,1,1,1,0,1,1,0,1,21,M,White-European-European,NO,NO,8,YES
+1,1,0,1,0,0,0,0,0,1,23,F,White-European-European,NO,NO,4,NO
+1,0,1,1,0,0,1,1,0,1,39,F,White-European-European,YES,YES,6,NO
+1,0,1,1,1,1,1,1,1,1,39,F,Hispanic,NO,YES,9,YES
+1,0,1,1,1,1,0,1,1,1,23,M,Latino,NO,YES,8,YES
+1,0,0,1,1,1,0,0,0,1,42,F,White-European-European,NO,NO,5,NO
+1,0,0,1,0,1,1,1,0,1,29,F,White-European-European,NO,NO,6,NO
+0,0,1,1,1,1,0,0,1,1,25,F,White-European-European,NO,YES,6,NO
+0,0,0,0,0,0,0,0,0,0,34,M,White-European-European,NO,NO,0,NO
+1,0,1,0,1,0,1,1,0,1,50,M,White-European-European,YES,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,43,M,White-European-European,YES,NO,9,YES
+0,0,1,0,0,0,0,0,0,0,28,F,Asian,NO,NO,1,NO
+1,0,0,1,1,1,1,1,1,1,22,M,White-European-European,NO,NO,8,YES
+1,1,0,0,0,0,0,1,0,1,28,M,Middle Eastern,NO,NO,4,NO
+1,0,1,1,0,1,1,1,0,1,44,F,White-European-European,NO,NO,7,YES
+0,1,0,0,0,0,0,1,0,0,36,M,White-European-European,NO,NO,2,NO
+1,1,1,1,0,0,0,0,0,1,41,F,White-European-European,NO,NO,5,NO
+0,1,0,0,0,0,0,1,0,0,20,M,White-European-European,NO,NO,2,NO
+0,1,0,1,1,1,1,1,0,1,32,M,Asian,NO,NO,7,YES
+1,1,1,1,0,0,0,1,0,0,44,F,White-European-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,44,F,White-European-European,NO,NO,10,YES
+0,0,0,0,1,0,0,0,0,0,44,F,White-European-European,NO,NO,1,NO
+1,0,0,1,1,0,1,1,0,1,23,F,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,41,M,White-European-European,NO,NO,10,YES
+1,0,1,1,1,0,0,1,1,1,45,F,Hispanic,NO,NO,7,YES
+1,1,1,1,0,1,1,1,1,1,34,F,White-European-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,45,M,White-European-European,NO,YES,10,YES
+1,1,0,1,1,1,1,1,1,1,21,F,White-European-European,NO,NO,9,YES
+0,0,0,0,0,0,1,0,0,0,59,M,White-European-European,NO,NO,1,NO
+1,1,1,0,1,0,1,0,1,1,35,M,White-European-European,YES,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,27,M,White-European-European,YES,NO,9,YES
+1,1,1,1,1,1,1,0,1,1,39,M,White-European-European,NO,NO,9,YES
+0,0,1,1,1,1,1,0,1,1,34,M,Middle Eastern,NO,YES,7,YES
+0,1,0,1,1,0,0,1,1,1,39,F,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,33,F,Others ,NO,YES,9,YES
+1,0,1,1,0,0,1,0,1,1,17,F,White-European-European,NO,NO,6,NO
+1,0,0,1,0,1,1,1,1,1,29,F,White-European-European,NO,NO,7,YES
+1,0,1,1,1,0,1,0,1,1,19,M,White-European-European,NO,NO,7,YES
+1,1,0,1,1,1,1,0,1,1,35,F,White-European-European,NO,NO,8,YES
+0,0,0,0,0,0,0,1,0,0,35,M,Middle Eastern,NO,NO,1,NO
+1,0,1,1,1,0,1,0,1,1,20,F,White-European-European,YES,YES,7,YES
+1,1,1,0,1,1,0,1,1,1,24,M,White-European-European,NO,NO,8,YES
+1,0,0,0,0,1,1,1,1,1,26,F,White-European-European,NO,YES,6,NO
+1,0,1,1,0,0,0,0,0,0,22,M,Middle Eastern,YES,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,42,M,White-European-European,NO,YES,10,YES
+0,0,1,1,1,0,1,1,1,1,50,F,White-European-European,NO,NO,7,YES
+0,1,1,1,1,1,1,0,1,0,49,F,White-European-European,NO,YES,7,YES
+1,0,1,1,0,1,0,1,0,1,35,F,White-European-European,NO,YES,6,NO
+1,0,0,0,0,0,0,1,0,1,24,F,White-European-European,NO,NO,3,NO
+1,1,1,1,1,1,0,1,1,1,45,M,White-European-European,NO,YES,9,YES
+1,0,1,0,0,0,0,0,0,1,26,M,Middle Eastern,NO,YES,3,NO
+1,0,1,1,1,1,1,1,0,1,33,F,White-European-European,NO,YES,8,YES
+1,0,0,0,1,1,1,1,0,0,21,M,White-European-European,NO,NO,5,NO
+0,1,0,1,1,1,1,1,1,1,46,M,White-European-European,NO,YES,8,YES
+0,1,1,1,0,0,1,1,0,0,39,M,Black,NO,NO,5,NO
+1,1,1,1,1,0,1,0,1,1,29,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,1,0,1,1,30,F,Middle Eastern,NO,YES,9,YES
+0,0,0,0,1,0,0,0,0,0,39,M,White-European-European,NO,NO,1,NO
+1,0,1,1,1,1,0,1,1,1,18,F,White-European-European,YES,NO,8,YES
+0,1,1,0,0,1,0,1,1,1,26,M,White-European-European,NO,YES,6,NO
+1,0,0,0,1,0,0,0,0,1,31,M,Asian,NO,NO,3,NO
+1,0,1,1,1,0,0,1,0,1,20,F,Latino,NO,NO,6,NO
+1,0,1,1,1,1,1,0,1,1,28,F,Asian,NO,NO,8,YES
+1,0,0,0,0,0,1,0,0,0,30,F,Asian,NO,NO,2,NO
+1,1,0,1,1,1,0,1,0,1,21,M,Hispanic,NO,NO,7,YES
+1,1,1,0,0,0,0,1,1,1,22,F,White-European-European,NO,YES,6,NO
+1,1,1,1,1,1,1,0,1,1,32,F,Middle Eastern,NO,NO,9,YES
+0,0,1,1,1,0,1,0,1,1,36,M,White-European-European,NO,NO,6,NO
+1,1,1,1,1,0,1,1,1,1,44,F,White-European-European,NO,NO,9,YES
+1,0,1,1,1,1,0,0,1,1,35,M,White-European-European,NO,YES,7,YES
+1,0,1,1,1,0,1,0,0,0,19,M,Asian,YES,NO,5,NO
+1,1,1,0,1,1,0,1,1,1,35,M,Asian,NO,NO,8,YES
+1,1,0,1,1,1,1,1,0,1,23,F,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,0,0,1,0,18,F,White-European-European,NO,NO,7,YES
+1,0,1,1,0,0,0,0,0,1,46,M,White-European-European,NO,YES,4,NO
+1,0,1,1,0,1,0,1,1,1,20,F,White-European-European,NO,NO,7,YES
+0,1,1,1,1,1,1,0,0,1,40,M,White-European-European,NO,YES,7,YES
+1,1,0,1,0,0,0,0,0,1,25,F,White-European-European,NO,NO,4,NO
+1,1,1,1,1,0,0,0,1,1,28,F,White-European-European,YES,YES,7,YES
+1,0,0,1,1,1,1,0,1,1,39,F,White-European-European,NO,YES,7,YES
+1,1,0,1,1,0,0,0,0,1,24,M,White-European-European,NO,NO,5,NO
+1,1,1,1,1,0,0,1,1,1,21,F,White-European-European,NO,YES,8,YES
+0,0,0,0,0,0,0,0,0,0,21,F,White-European-European,NO,YES,0,NO
+0,0,1,1,0,0,1,0,1,0,27,M,South Asian,NO,NO,4,NO
+1,1,1,0,1,0,1,1,1,1,33,M,White-European-European,NO,NO,8,YES
+1,1,1,0,1,1,1,1,1,1,42,F,White-European-European,NO,YES,9,YES
+1,1,1,1,1,0,0,0,1,1,21,F,White-European-European,YES,NO,7,YES
+1,0,1,0,0,0,0,0,0,0,46,M,White-European-European,NO,YES,2,NO
+1,0,0,1,0,0,1,1,0,1,22,F,Black,NO,NO,5,NO
+1,1,0,1,0,0,1,1,0,0,44,F,White-European-European,NO,NO,5,NO
+1,0,1,1,0,0,1,1,0,1,44,F,White-European-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,17,F,Others ,NO,NO,9,YES
+1,1,0,0,0,0,0,1,0,0,26,M,White-European-European,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,0,26,M,White-European-European,NO,NO,3,NO
+1,1,0,1,1,0,1,1,0,1,17,F,White-European-European,NO,NO,7,YES
+1,1,1,1,1,1,1,1,1,1,47,M,Middle Eastern,NO,NO,10,YES
+1,1,1,0,1,1,1,1,1,1,32,M,White-European-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,25,M,White-European-European,NO,NO,10,YES
+1,1,1,0,0,0,0,1,0,1,37,F,Others ,NO,NO,5,NO
+0,0,0,0,0,0,1,1,0,0,25,M,Asian,NO,NO,2,NO
+1,1,1,0,0,0,0,0,0,0,20,F,White-European-European,NO,NO,3,NO
+0,0,1,0,0,0,1,0,0,0,17,M,White-European-European,YES,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,38,M,White-European-European,NO,NO,2,NO
+1,0,0,1,0,1,0,0,0,0,55,M,White-European-European,NO,YES,3,NO
+1,0,1,0,0,0,1,0,0,1,17,M,White-European-European,NO,NO,4,NO
+1,1,1,1,1,0,1,1,1,1,35,F,Asian,NO,NO,9,YES
+0,1,1,1,1,1,1,0,1,1,48,M,Latino,YES,NO,8,YES
+1,0,1,0,0,0,0,1,1,1,23,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,0,17,F,White-European-European,YES,YES,9,YES
+1,1,1,1,1,1,1,1,1,1,44,F,Aboriginal,NO,NO,10,YES
+1,0,1,0,0,0,1,1,0,1,21,M,White-European-European,NO,NO,5,NO
+1,0,0,0,1,0,1,1,1,1,18,F,White-European-European,NO,NO,6,NO
+0,1,1,0,0,0,0,0,0,0,17,M,White-European-European,NO,NO,2,NO
+0,0,0,0,0,0,0,0,0,0,17,M,White-European-European,NO,NO,0,NO
+1,0,0,0,0,0,0,0,0,0,17,M,White-European-European,NO,NO,1,NO
+0,0,1,1,1,0,1,1,1,1,17,M,White-European-European,NO,NO,7,YES
+1,1,1,0,0,1,0,1,0,0,17,M,White-European-European,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,0,17,M,White-European-European,NO,NO,1,NO
+1,1,1,1,0,0,0,1,0,0,18,M,Middle Eastern,YES,NO,5,NO
+1,1,0,1,1,0,0,1,1,0,51,M,White-European-European,NO,NO,6,NO
+1,1,0,1,1,0,1,1,1,1,23,M,White-European-European,NO,NO,8,YES
+0,0,1,0,0,0,0,1,1,1,33,M,Asian,NO,NO,4,NO
+0,0,1,1,0,0,1,1,0,1,30,M,Asian,NO,NO,5,NO
+0,1,1,0,1,0,0,0,1,1,17,M,White-European-European,NO,NO,5,NO
+1,1,0,1,0,0,0,1,0,0,33,M,White-European-European,NO,NO,4,NO
+1,1,1,1,0,0,0,0,0,0,25,M,Asian,NO,NO,4,NO
+1,1,1,1,1,0,1,1,1,1,18,M,White-European-European,NO,NO,9,YES
+1,0,0,1,1,0,1,1,0,1,18,M,White-European-European,NO,NO,6,NO
+1,1,1,1,0,1,1,1,1,1,22,F,White-European-European,NO,NO,9,YES
+1,1,0,1,1,0,1,0,0,0,31,F,White-European-European,YES,YES,5,NO
+1,1,1,1,1,0,1,1,1,1,31,M,Aboriginal,NO,NO,9,YES
+0,0,1,0,0,0,0,1,0,1,24,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,1,22,M,Asian,NO,YES,1,NO
+1,0,1,0,0,0,1,0,0,0,52,M,White-European-European,NO,NO,3,NO
+0,1,0,1,0,0,1,1,0,1,34,M,Hispanic,NO,NO,5,NO
+1,0,1,1,1,1,1,1,1,1,22,F,White-European-European,NO,NO,9,YES
+1,1,1,1,1,0,0,1,0,0,37,M,White-European-European,NO,NO,6,NO
+1,0,0,1,0,0,1,0,1,0,34,M,Middle Eastern,YES,YES,4,NO
+1,0,1,1,1,0,0,1,0,1,35,M,Latino,NO,NO,6,NO
+0,0,0,1,1,1,1,0,1,1,39,M,Latino,NO,NO,6,NO
+1,1,1,1,1,1,1,1,0,1,17,M,White-European-European,NO,NO,9,YES
+0,0,0,1,1,1,0,0,1,0,17,M,White-European-European,NO,NO,4,NO
+1,1,0,0,1,1,0,1,1,0,36,F,White-European-European,NO,NO,6,NO
+0,0,0,0,1,1,1,1,0,1,37,M,White-European-European,YES,YES,5,NO
+1,1,1,1,1,1,1,1,1,1,53,M,White-European-European,NO,NO,10,YES
+0,1,1,1,0,0,0,0,0,1,36,F,White-European-European,NO,NO,4,NO
+1,1,1,1,0,1,1,1,1,1,17,F,White-European-European,NO,NO,9,YES
+0,1,1,0,0,0,0,1,1,0,28,M,South Asian,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,1,29,M,White-European-European,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,1,29,M,White-European-European,NO,YES,4,NO
+1,1,1,0,1,0,1,1,0,1,29,M,White-European-European,NO,NO,7,YES
+0,0,0,1,1,1,1,0,0,1,40,F,South Asian,YES,NO,5,NO
+0,0,0,0,0,0,0,0,0,0,37,M,Middle Eastern,NO,NO,0,NO
+1,0,1,1,1,0,1,1,1,1,22,M,White-European-European,NO,YES,8,YES
+0,0,0,0,0,0,0,0,1,1,19,M,Others ,NO,NO,2,NO
+1,1,1,0,0,0,1,1,0,0,40,F,White-European-European,NO,NO,5,NO
+1,0,1,1,0,0,0,0,1,1,35,F,White-European-European,NO,NO,5,NO
+1,0,0,0,0,0,0,0,0,0,28,M,White-European-European,NO,NO,1,NO
+1,0,0,0,0,0,1,1,0,1,26,M,Latino,NO,YES,4,NO
+1,0,1,1,1,0,1,1,1,1,26,F,Latino,YES,YES,8,YES
+1,0,0,0,1,1,1,0,0,1,38,F,White-European-European,NO,NO,5,NO
+1,0,1,1,1,0,1,1,0,1,43,M,White-European-European,YES,YES,7,YES
+1,0,0,1,0,0,1,1,0,1,35,F,Asian,NO,NO,5,NO
+0,0,0,0,0,0,0,0,1,1,36,F,Asian,NO,NO,2,NO
+1,1,0,0,0,0,0,0,0,0,17,F,White-European-European,NO,NO,2,NO
+1,0,0,0,0,0,1,1,1,1,19,M,Asian,NO,NO,5,NO
+0,1,1,1,1,1,0,0,0,1,37,M,White-European-European,NO,NO,6,NO
+1,0,0,1,1,1,1,1,0,0,67,F,White-European-European,YES,NO,6,NO
+1,1,0,0,0,0,0,1,0,0,46,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,0,0,0,1,0,0,56,M,White-European-European,NO,NO,3,NO
+1,1,1,1,0,0,0,1,0,0,41,M,Others ,NO,YES,5,NO
+1,1,1,1,1,0,1,1,0,1,51,M,White-European-European,NO,YES,8,YES
+0,0,0,0,0,0,0,1,0,0,17,F,White-European-European,NO,NO,1,NO
+0,0,0,1,0,0,0,0,0,0,22,M,Others ,NO,NO,1,NO
+1,1,1,1,1,1,1,1,1,1,28,F,White-European-European,NO,NO,10,YES
+1,1,1,1,1,1,1,0,0,1,43,M,White-European-European,NO,NO,8,YES
+1,1,1,1,1,1,0,0,1,1,40,F,Black,YES,NO,8,YES
+0,0,0,0,0,0,0,0,0,0,50,F,White-European-European,NO,YES,0,NO
+1,0,1,1,1,1,1,1,0,1,20,M,White-European-European,NO,NO,8,YES
+1,1,1,1,0,0,0,0,0,0,23,F,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,0,1,1,1,1,20,M,White-European-European,NO,NO,9,YES
+0,0,0,0,0,0,0,0,0,0,36,M,White-European-European,NO,NO,0,NO
+0,1,1,1,1,1,0,1,1,1,52,F,White-European-European,NO,NO,8,YES
+1,1,1,0,0,0,0,1,1,1,21,M,Asian,NO,NO,6,NO
+1,1,1,1,1,1,0,0,1,1,18,F,White-European-European,YES,NO,8,YES
+1,1,1,0,0,0,0,1,0,0,19,M,White-European-European,NO,NO,4,NO
+1,1,0,1,1,1,1,1,1,1,42,F,Others ,NO,NO,9,YES
+1,1,1,0,1,1,0,1,1,1,41,M,White-European-European,NO,NO,8,YES
+1,1,0,0,0,0,0,1,0,0,33,F,White-European-European,NO,NO,3,NO
+1,0,1,0,1,1,0,1,1,1,41,M,Middle Eastern,YES,NO,7,YES
+0,0,0,0,0,1,1,1,0,0,22,M,White-European-European,NO,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,71,F,White-European-European,NO,YES,1,NO
+1,1,1,1,1,0,1,1,1,0,80,M,White-European-European,NO,YES,8,YES
+1,0,1,1,1,1,1,1,1,1,26,M,White-European-European,NO,NO,9,YES
+1,0,1,0,1,0,1,1,0,1,52,M,White-European-European,NO,NO,6,NO
+0,1,1,0,0,0,0,0,0,0,51,F,White-European-European,NO,YES,2,NO
+1,1,1,1,1,1,1,1,1,1,43,M,White-European-European,NO,NO,10,YES
+1,0,0,0,0,0,1,1,1,1,43,M,White-European-European,YES,YES,5,NO
+1,1,0,1,1,1,0,1,0,1,21,F,White-European-European,NO,NO,7,YES
+0,1,0,0,1,1,0,0,1,0,19,M,Middle Eastern,NO,NO,4,NO
+1,1,1,1,0,0,1,1,0,0,26,F,White-European,NO,NO,6,NO
+1,1,0,1,0,0,0,1,0,1,24,M,Latino,NO,YES,5,NO
+1,1,0,1,1,0,1,1,1,1,27,M,Latino,YES,YES,8,YES
+1,1,0,1,0,0,1,1,0,1,35,F,White-European,NO,YES,6,NO
+1,0,0,0,0,0,0,1,0,0,40,F,?,NO,NO,2,NO
+1,1,1,1,1,0,1,1,1,1,36,M,Others,YES,NO,9,YES
+0,1,0,0,0,0,0,1,0,0,17,F,Black,NO,NO,2,NO
+1,1,1,1,0,0,0,0,1,0,64,M,White-European,NO,NO,5,NO
+1,1,0,0,1,0,0,1,1,1,29,M,White-European,NO,NO,6,NO
+1,1,1,1,0,1,1,1,1,0,17,M,Asian,YES,YES,8,YES
+1,1,1,1,1,1,1,1,1,1,33,M,White-European,NO,NO,10,YES
+0,1,0,1,1,1,1,0,0,1,18,F,Middle Eastern,NO,NO,6,NO
+0,1,1,1,1,1,0,0,1,0,17,F,?,NO,NO,6,NO
+1,0,0,0,0,0,1,1,0,1,17,M,?,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,1,17,F,?,NO,NO,4,NO
+1,1,0,1,1,0,0,1,0,1,18,M,Middle Eastern,NO,YES,6,NO
+1,0,0,0,0,0,1,1,1,1,31,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,1,30,M,White-European,NO,NO,2,NO
+0,0,1,0,1,1,0,0,0,0,35,F,Middle Eastern,NO,YES,3,NO
+0,0,0,0,0,0,1,1,0,1,34,M,?,YES,NO,3,NO
+0,1,1,1,0,0,0,0,0,0,38,M,?,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,27,F,Black,NO,NO,0,NO
+0,0,0,1,0,0,1,1,1,1,27,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,1,42,M,Middle Eastern,YES,NO,2,NO
+1,1,1,1,0,0,0,1,0,0,43,M,?,NO,NO,5,NO
+0,1,1,0,0,0,0,1,0,0,24,F,?,YES,NO,3,NO
+0,0,0,0,0,0,0,1,0,0,40,M,Pasifika,YES,YES,1,NO
+0,0,0,0,0,0,0,1,0,0,40,M,Middle Eastern,YES,YES,1,NO
+0,0,0,0,0,0,0,1,0,0,48,M,Black,NO,NO,1,NO
+0,1,1,0,0,0,0,0,1,1,31,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,0,0,0,0,0,18,M,White-European,NO,NO,0,NO
+1,0,0,1,1,1,1,1,0,1,37,F,White-European,NO,YES,7,YES
+1,1,0,0,0,0,1,0,0,1,55,F,Others,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,18,F,White-European,YES,NO,10,YES
+1,1,1,1,1,1,1,1,1,1,18,F,White-European,NO,NO,10,YES
+0,0,1,0,0,0,0,0,0,0,55,M,White-European,NO,NO,1,NO
+0,1,1,0,1,0,0,1,1,1,50,M,Middle Eastern,NO,NO,6,NO
+1,0,1,1,1,1,0,0,1,0,34,F,White-European,NO,NO,6,NO
+1,0,0,1,1,1,1,0,1,1,53,F,White-European,NO,NO,7,YES
+1,0,1,1,0,1,1,1,1,1,35,F,White-European,NO,YES,8,YES
+1,0,1,1,1,0,1,1,0,1,20,F,Latino,YES,NO,7,YES
+0,0,0,0,1,1,0,0,0,0,28,F,Asian,NO,NO,2,NO
+0,0,1,1,0,0,0,0,0,1,34,F,Middle Eastern,NO,YES,3,NO
+0,1,1,1,0,0,0,0,0,1,36,F,White-European,YES,YES,4,NO
+1,1,1,1,1,1,0,1,0,1,27,F,White-European,NO,NO,8,YES
+1,0,1,1,1,1,0,1,1,0,53,F,White-European,NO,NO,7,YES
+1,1,1,1,0,1,0,0,0,0,24,F,Pasifika,NO,NO,5,NO
+0,0,1,1,1,0,1,0,0,0,24,M,Pasifika,NO,NO,4,NO
+0,1,1,0,0,1,0,0,0,0,55,M,White-European,NO,NO,3,NO
+1,1,0,0,0,1,1,1,0,1,30,F,Asian,NO,NO,6,NO
+1,0,0,1,0,0,0,1,0,0,21,F,Latino,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,35,F,Black,NO,NO,10,YES
+1,0,0,0,0,0,0,0,0,0,383,F,Pasifika,NO,NO,1,NO
+1,0,1,1,1,1,1,1,0,1,21,M,Latino,NO,YES,8,YES
+1,1,1,1,1,1,1,1,1,1,47,M,White-European,NO,NO,10,YES
+1,1,1,1,1,1,0,1,1,1,30,F,Asian,NO,NO,9,YES
+1,0,1,1,1,1,0,1,1,1,28,F,White-European,NO,NO,8,YES
+1,1,1,1,1,1,0,1,1,1,43,F,White-European,NO,NO,9,YES
+1,0,0,0,1,0,0,1,0,0,32,F,South Asian,NO,YES,3,NO
+1,1,1,1,0,0,0,1,0,0,44,F,White-European,NO,NO,5,NO
+1,0,1,1,1,1,1,1,0,1,20,F,Others,NO,NO,8,YES
+1,0,1,1,0,1,1,1,0,1,20,F,Others,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,?,M,?,NO,NO,0,NO
+1,0,0,1,1,0,0,1,1,0,19,M,White-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,0,1,29,F,White-European,NO,NO,9,YES
+1,0,1,0,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,3,NO
+0,1,0,0,0,0,0,1,0,0,27,M,Middle Eastern,NO,NO,2,NO
+1,0,1,0,1,1,1,1,0,0,21,M,Hispanic,NO,NO,6,NO
+1,0,0,0,1,0,1,0,0,1,35,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,1,0,0,0,0,0,42,M,Black,NO,NO,1,NO
+1,1,0,0,0,0,1,1,0,1,29,F,South Asian,NO,NO,5,NO
+0,0,1,1,0,0,0,1,0,0,58,M,Asian,NO,NO,3,NO
+1,0,1,1,0,0,1,1,0,1,21,M,Others,NO,NO,6,NO
+1,1,1,0,0,0,0,1,1,1,21,M,Others,NO,NO,6,NO
+0,0,1,1,1,0,0,1,1,1,37,F,White-European,NO,YES,6,NO
+1,1,0,1,1,1,1,1,0,0,21,M,Hispanic,NO,NO,7,YES
+1,0,0,0,0,0,1,1,0,0,20,M,Middle Eastern,NO,NO,3,NO
+1,1,0,1,1,1,1,1,1,0,33,F,Black,NO,YES,8,YES
+1,0,0,1,1,0,0,0,0,1,20,M,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,0,45,F,?,YES,NO,2,NO
+0,0,1,1,0,0,1,1,0,1,32,M,?,YES,YES,5,NO
+1,0,0,0,0,0,1,0,0,1,30,M,?,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,33,F,White-European,NO,YES,10,YES
+0,0,1,0,1,0,0,1,0,1,42,F,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,0,17,F,White-European,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,1,27,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,1,1,1,1,1,1,35,F,Middle Eastern,NO,YES,8,YES
+1,0,0,0,0,0,0,0,0,0,37,M,White-European,NO,NO,1,NO
+1,0,0,0,0,0,0,1,1,1,30,F,White-European,NO,YES,4,NO
+1,1,1,1,1,1,0,1,1,1,29,F,White-European,NO,NO,9,YES
+1,0,1,1,0,0,0,0,0,1,17,F,White-European,NO,YES,4,NO
+0,1,0,0,1,0,1,0,0,1,?,F,?,NO,NO,4,NO
+0,0,0,1,1,1,0,1,0,1,22,F,Pasifika,NO,NO,5,NO
+1,1,1,0,1,1,1,0,1,1,19,F,Latino,NO,YES,8,YES
+1,1,1,1,1,0,0,1,1,1,42,F,White-European,NO,YES,8,YES
+1,1,0,0,0,0,0,1,0,1,37,F,White-European,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,28,F,White-European,NO,NO,4,NO
+1,0,0,1,1,0,1,0,0,0,22,M,Others,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,26,F,Pasifika,NO,NO,3,NO
+0,0,0,0,0,0,0,0,1,0,21,M,Pasifika,NO,NO,1,NO
+0,1,1,0,0,0,0,1,0,0,26,F,South Asian,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,39,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,0,0,1,1,26,M,Asian,NO,NO,3,NO
+1,1,0,0,1,0,1,1,0,0,26,M,Asian,NO,NO,5,NO
+0,0,0,0,1,1,0,1,0,1,21,M,South Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,0,0,0,25,M,Asian,NO,NO,0,NO
+0,0,1,0,1,1,1,1,0,1,26,M,South Asian,NO,NO,6,NO
+1,1,0,1,1,0,1,1,0,1,30,F,White-European,NO,NO,7,YES
+1,0,0,1,1,1,1,0,0,0,19,F,Asian,NO,NO,5,NO
+1,0,0,0,0,1,1,0,0,0,19,F,Asian,NO,NO,3,NO
+1,0,1,1,1,1,1,1,1,1,25,F,White-European,NO,YES,9,YES
+0,0,1,1,0,1,0,1,1,1,23,M,White-European,NO,NO,6,NO
+1,0,0,0,1,0,0,0,0,1,31,M,Asian,NO,NO,3,NO
+0,1,0,0,0,0,0,1,1,1,27,M,Asian,NO,NO,4,NO
+1,1,0,1,1,1,1,1,0,1,29,F,Middle Eastern,NO,NO,8,YES
+1,0,1,1,1,1,0,1,1,0,38,F,White-European,NO,NO,7,YES
+1,1,1,1,1,1,0,1,0,1,23,F,White-European,NO,NO,8,YES
+1,1,1,0,1,0,1,1,0,0,27,M,White-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,27,F,White-European,NO,NO,9,YES
+1,1,1,1,1,1,0,0,1,0,42,M,White-European,NO,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,20,M,White-European,NO,NO,9,YES
+1,0,1,1,1,1,1,1,1,1,17,F,White-European,NO,NO,9,YES
+1,0,0,0,0,0,0,0,0,0,20,F,Black,NO,NO,1,NO
+1,0,0,1,1,1,1,1,0,1,30,M,Asian,YES,NO,7,YES
+1,0,1,1,1,1,1,1,1,1,28,F,White-European,NO,YES,9,YES
+1,1,0,0,1,1,1,1,0,1,26,F,White-European,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,26,F,White-European,NO,NO,0,NO
+1,0,0,1,1,1,0,1,0,1,31,M,Middle Eastern,NO,YES,6,NO
+1,0,1,1,0,0,1,0,0,1,40,F,White-European,NO,NO,5,NO
+1,0,0,0,1,0,0,0,1,1,39,F,White-European,NO,YES,4,NO
+1,1,0,0,0,0,0,1,0,0,18,F,White-European,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,24,M,Black,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,0,23,M,South Asian,NO,NO,3,NO
+1,0,1,1,0,0,0,1,0,1,24,M,Asian,NO,NO,5,NO
+0,1,0,0,1,1,0,1,1,0,24,M,Asian,NO,NO,5,NO
+1,0,1,1,0,0,0,1,1,1,27,M,Asian,NO,NO,6,NO
+0,1,1,0,0,1,0,0,1,1,24,M,Asian,NO,NO,5,NO
+0,0,0,0,1,0,0,0,0,1,25,M,Asian,NO,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,22,M,Asian,NO,NO,3,NO
+0,1,0,0,0,0,0,0,0,1,40,F,Asian,NO,NO,2,NO
+0,0,1,1,0,0,0,1,0,1,23,M,Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,29,M,South Asian,NO,NO,2,NO
+1,0,1,0,0,0,0,1,0,0,25,M,Asian,NO,NO,3,NO
+1,0,0,1,1,0,0,1,0,0,27,M,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,0,22,M,South Asian,NO,NO,1,NO
+1,0,0,1,1,1,1,1,1,1,28,M,White-European,NO,NO,8,YES
+1,0,1,1,1,1,1,1,1,1,20,M,White-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,19,F,White-European,NO,NO,10,YES
+1,1,0,0,1,1,1,1,0,1,37,F,Others,NO,NO,7,YES
+1,1,1,1,1,0,1,1,1,0,35,M,White-European,YES,YES,8,YES
+0,0,0,0,1,0,0,1,0,0,26,M,Asian,NO,NO,2,NO
+0,1,1,1,1,0,1,1,0,1,23,M,Asian,NO,NO,7,YES
+1,1,0,0,1,0,0,0,0,1,32,F,South Asian,NO,NO,4,NO
+0,0,1,0,1,0,1,0,1,1,30,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,0,0,1,31,M,Asian,NO,NO,4,NO
+0,0,0,0,0,0,1,1,0,1,28,F,Asian,NO,NO,3,NO
+1,0,0,0,0,1,0,1,0,1,29,F,Asian,NO,NO,4,NO
+0,1,0,0,1,0,0,1,0,1,29,F,South Asian,NO,NO,4,NO
+1,0,0,1,0,0,0,0,1,1,29,F,Asian,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,0,31,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,36,M,Asian,NO,NO,0,NO
+0,1,0,0,0,0,0,1,0,0,32,F,South Asian,NO,NO,2,NO
+0,0,0,0,0,0,0,1,0,0,34,F,South Asian,NO,NO,1,NO
+1,1,0,0,0,0,0,1,0,0,24,M,Asian,NO,NO,3,NO
+1,0,1,0,1,0,1,1,0,1,24,F,Asian,NO,NO,6,NO
+1,0,0,0,1,0,1,1,0,1,42,M,Asian,NO,NO,5,NO
+0,0,1,0,0,0,0,1,1,1,26,F,Others,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,27,F,Asian,NO,NO,4,NO
+0,0,1,1,1,0,0,1,1,1,36,F,Latino,NO,YES,6,NO
+1,1,1,1,1,0,0,1,1,1,36,F,Latino,NO,YES,8,YES
+1,0,1,1,0,0,1,1,0,1,55,M,Hispanic,NO,NO,6,NO
+1,1,0,1,0,0,1,0,0,0,23,F,Asian,NO,NO,4,NO
+0,0,1,1,1,0,0,0,0,1,22,F,Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,42,F,Middle Eastern,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,0,54,M,White-European,NO,NO,3,NO
+1,1,0,0,0,0,1,1,1,1,43,F,Black,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,43,F,Black,NO,NO,9,YES
+0,0,1,1,1,0,0,1,1,1,29,M,Middle Eastern,NO,NO,6,NO
+1,0,1,0,1,0,0,1,0,1,29,M,Middle Eastern,NO,NO,5,NO
+1,0,1,0,1,0,1,0,0,0,37,M,White-European,NO,NO,4,NO
+1,0,0,0,1,0,1,0,0,1,39,F,White-European,NO,NO,4,NO
+1,1,1,1,1,0,0,0,0,0,18,F,Asian,NO,NO,5,NO
+0,1,0,1,1,1,0,1,0,1,31,M,White-European,NO,NO,6,NO
+0,0,1,1,1,0,0,0,0,1,34,M,Asian,NO,NO,4,NO
+0,0,1,1,1,0,1,0,0,1,22,M,White-European,NO,NO,5,NO
+1,0,1,1,1,1,1,0,1,0,28,M,South Asian,NO,NO,7,YES
+1,0,0,0,0,0,1,1,0,1,38,M,Others,NO,YES,4,NO
+1,0,0,0,0,0,1,1,0,1,28,F,White-European,NO,NO,4,NO
+1,1,0,1,1,1,0,1,1,1,53,F,White-European,NO,YES,8,YES
+1,1,1,0,1,0,1,0,0,0,26,M,White-European,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,37,M,White-European,NO,NO,9,YES
+1,1,0,1,0,0,0,1,0,1,42,M,Latino,YES,YES,5,NO
+1,0,0,0,0,0,0,1,0,1,43,M,Hispanic,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,32,F,Asian,NO,NO,2,NO
+0,1,0,1,0,0,0,1,0,0,31,M,White-European,NO,YES,3,NO
+1,0,1,1,1,1,1,1,1,1,53,F,White-European,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,28,M,White-European,NO,NO,10,YES
+1,0,1,1,1,1,1,1,1,1,38,M,White-European,NO,NO,9,YES
+1,1,1,0,1,1,0,1,1,0,31,M,White-European,NO,NO,7,YES
+1,1,1,1,0,0,0,0,0,0,31,F,Pasifika,NO,YES,4,NO
+1,1,1,1,1,0,1,1,1,1,21,F,White-European,NO,NO,9,YES
+1,1,0,1,1,0,0,0,1,1,25,F,White-European,NO,NO,6,NO
+1,1,0,1,1,0,0,1,1,1,25,F,White-European,NO,NO,7,YES
+1,1,1,1,1,1,1,0,1,1,60,F,White-European,NO,YES,9,YES
+1,0,1,1,0,0,0,0,0,0,39,M,White-European,NO,YES,3,NO
+1,1,1,1,1,1,1,1,1,1,53,M,White-European,NO,NO,10,YES
+1,1,1,1,1,1,1,1,1,1,20,M,Middle Eastern,NO,YES,10,YES
+1,1,1,0,1,0,0,1,1,1,25,F,White-European,NO,NO,7,YES
+1,1,1,1,0,0,1,1,0,0,50,M,White-European,NO,NO,6,NO
+1,0,0,1,1,1,1,1,1,1,28,F,White-European,NO,NO,8,YES
+1,0,1,1,1,1,1,1,1,1,37,F,White-European,NO,YES,9,YES
+0,0,0,1,0,1,0,1,1,1,30,M,Asian,NO,YES,5,NO
+1,1,0,0,0,1,1,1,0,1,32,F,White-European,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,1,34,F,White-European,NO,NO,4,NO
+1,1,1,1,0,0,0,0,0,1,42,M,White-European,NO,NO,5,NO
+1,1,0,0,1,1,1,1,1,1,22,F,Black,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,37,F,?,YES,NO,4,NO
+1,1,0,0,0,0,0,1,0,1,39,M,White-European,NO,YES,4,NO
+1,1,0,1,1,0,1,1,0,1,18,M,White-European,NO,NO,7,YES
+1,0,0,1,0,0,0,0,0,0,54,F,White-European,NO,YES,2,NO
+1,1,0,0,0,0,0,1,0,0,42,M,White-European,NO,NO,3,NO
+0,0,1,0,0,0,0,0,0,0,27,F,?,NO,NO,1,NO
+1,1,1,1,1,0,0,1,0,0,22,M,White-European,NO,NO,6,NO
+1,0,1,1,0,1,1,1,1,1,22,M,White-European,NO,NO,8,YES
+1,1,1,1,1,1,1,0,1,1,21,F,White-European,NO,NO,9,YES
+0,1,0,1,0,0,0,1,0,1,28,F,White-European,NO,NO,4,NO
+1,1,1,1,1,1,1,0,1,1,17,M,Asian,YES,NO,9,YES
+0,1,0,0,0,0,0,0,0,0,28,M,White-European,NO,NO,1,NO
+0,0,0,1,1,0,1,1,0,1,21,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,31,F,Asian,NO,NO,10,YES
+1,0,0,0,0,0,1,1,0,0,20,M,South Asian,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,21,M,White-European,NO,NO,2,NO
+1,1,0,0,1,0,0,0,0,0,22,M,White-European,NO,NO,3,NO
+0,1,0,0,0,0,0,1,1,1,21,M,White-European,NO,NO,4,NO
+0,1,1,0,0,0,0,0,0,0,24,M,Black,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,24,M,South Asian,NO,NO,2,NO
+1,0,0,0,1,1,1,1,0,1,25,M,Asian,NO,NO,6,NO
+1,0,0,0,0,0,0,0,0,1,17,M,South Asian,NO,NO,2,NO
+0,1,0,0,0,0,0,1,1,0,21,M,?,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,0,23,M,Pasifika,NO,NO,2,NO
+1,0,0,1,1,0,1,1,0,0,21,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,1,1,1,22,M,Others,NO,NO,6,NO
+1,0,0,0,1,0,0,1,0,1,24,F,Asian,NO,NO,4,NO
+0,0,1,0,1,1,0,0,1,1,34,M,Others,NO,NO,5,NO
+1,0,1,0,1,0,1,1,0,1,30,M,Asian,NO,NO,6,NO
+1,0,0,0,0,0,1,1,0,1,29,F,Asian,NO,NO,4,NO
+1,0,0,1,1,0,1,1,0,0,20,M,Pasifika,NO,NO,5,NO
+0,0,1,1,0,1,0,1,1,1,23,M,White-European,NO,NO,6,NO
+0,0,0,0,0,0,0,1,0,1,26,M,Asian,NO,NO,2,NO
+1,0,0,1,1,1,1,1,1,1,20,M,South Asian,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,0,41,M,Asian,NO,NO,3,NO
+1,0,0,1,0,0,1,1,0,0,24,M,Asian,NO,NO,4,NO
+0,0,0,1,0,0,0,1,0,0,35,M,Asian,NO,NO,2,NO
+0,0,0,1,0,0,1,0,0,0,23,M,South Asian,NO,NO,2,NO
+1,0,1,0,0,0,1,0,0,0,36,M,White-European,NO,NO,3,NO
+1,1,0,0,1,0,0,1,0,0,33,M,Turkish,NO,NO,4,NO
+1,0,0,0,0,1,0,1,1,1,24,M,South Asian,NO,NO,5,NO
+0,1,1,0,1,0,0,1,0,0,25,M,?,NO,NO,4,NO
+1,0,0,0,1,1,0,1,0,1,25,M,Asian,NO,NO,5,NO
+1,0,0,0,0,0,1,1,1,1,25,M,Asian,NO,NO,5,NO
+0,0,0,0,0,0,1,1,0,1,24,M,Asian,NO,NO,3,NO
+1,0,1,0,1,0,0,1,0,1,27,F,South Asian,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,0,26,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,26,M,Others,NO,NO,0,NO
+1,0,0,0,1,0,0,1,1,0,23,F,Asian,NO,NO,4,NO
+1,1,1,0,1,0,1,1,0,1,30,M,Asian,NO,NO,7,YES
+1,0,0,1,0,0,0,0,1,0,25,M,Asian,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,23,M,Pasifika,NO,NO,3,NO
+1,0,1,1,1,0,0,1,0,0,34,F,White-European,NO,NO,5,NO
+1,0,0,1,1,0,1,1,0,1,20,F,Asian,NO,NO,6,NO
+1,0,1,1,1,1,0,0,1,1,22,F,?,NO,YES,7,YES
+1,1,1,1,0,0,0,1,1,1,33,F,Black,NO,YES,7,YES
+1,1,1,1,1,1,1,1,1,1,46,M,White-European,NO,NO,10,YES
+1,1,0,0,0,0,0,0,0,0,17,M,White-European,NO,NO,2,NO
+1,1,1,0,0,0,0,1,0,0,45,F,White-European,NO,YES,4,NO
+0,1,1,1,0,0,0,0,1,0,26,M,Asian,NO,NO,4,NO
+1,0,0,0,1,0,0,0,1,0,30,M,?,NO,NO,3,NO
+1,1,0,0,0,0,0,0,0,0,32,F,?,NO,YES,2,NO
+1,0,1,1,1,1,1,1,1,1,38,F,White-European,NO,NO,9,YES
+0,1,1,0,1,0,0,0,0,0,26,M,Hispanic,YES,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,29,F,Hispanic,NO,YES,1,NO
+1,1,1,1,1,0,0,1,1,1,33,M,White-European,NO,NO,8,YES
+0,1,1,0,1,1,1,0,1,1,32,F,Black,NO,NO,7,YES
+1,1,1,1,1,1,1,1,1,1,44,F,White-European,NO,NO,10,YES
+0,1,0,0,0,0,1,0,0,1,47,F,White-European,YES,NO,3,NO
+0,0,0,1,1,1,1,0,1,1,32,F,?,NO,NO,6,NO
+0,0,0,0,0,0,0,0,0,0,40,M,White-European,NO,NO,0,NO
+1,0,0,1,1,0,0,1,0,1,40,M,White-European,NO,NO,5,NO
+0,0,0,0,0,0,0,0,0,0,44,F,White-European,NO,NO,0,NO
+1,1,1,0,1,1,1,0,1,1,56,M,White-European,YES,NO,8,YES
+1,1,1,0,1,1,1,0,1,1,23,F,White-European,NO,NO,8,YES
+1,1,0,1,1,0,0,1,1,1,32,F,Black,NO,NO,7,YES
+0,1,1,1,0,0,0,1,0,1,27,M,White-European,NO,YES,5,NO
+1,0,0,0,1,0,1,0,0,1,28,F,White-European,NO,YES,4,NO
+0,0,0,0,0,0,0,0,0,0,40,F,Middle Eastern,NO,NO,0,NO
+1,0,1,1,1,1,0,0,1,1,45,F,White-European,NO,NO,7,YES
+1,1,1,1,1,1,0,0,1,1,19,F,White-European,YES,NO,8,YES
+1,1,1,1,0,1,0,1,1,1,55,M,White-European,NO,YES,8,YES
+1,0,0,1,0,0,1,1,0,1,27,F,White-European,YES,NO,5,NO
+1,1,1,1,1,1,1,0,1,1,19,F,White-European,YES,NO,9,YES
+1,0,0,1,0,0,0,1,0,0,29,M,White-European,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,33,F,White-European,YES,NO,10,YES
+0,0,1,1,1,1,1,1,0,0,48,F,White-European,NO,NO,6,NO
+0,0,0,0,0,0,0,1,1,0,37,F,Others,NO,NO,2,NO
+1,1,1,1,1,0,0,0,1,0,30,M,Asian,NO,NO,6,NO
+1,1,0,1,0,0,0,0,0,1,37,F,White-European,NO,NO,4,NO
+1,0,0,1,1,0,1,1,1,1,28,F,?,NO,NO,7,YES
+1,0,0,1,1,1,1,1,1,1,20,F,White-European,NO,NO,8,YES
+1,1,1,1,1,1,0,0,1,1,25,F,Others,NO,NO,8,YES
+1,1,1,1,1,1,0,1,0,0,58,F,Middle Eastern,NO,NO,7,YES
+1,0,1,0,0,0,0,0,0,0,36,F,White-European,NO,NO,2,NO
+0,0,1,1,1,0,0,1,0,0,36,M,White-European,YES,NO,4,NO
+1,0,1,0,1,1,1,1,1,0,19,M,Hispanic,NO,NO,7,YES
+1,0,1,1,1,1,0,1,1,0,19,M,Hispanic,NO,NO,7,YES
+1,0,0,1,1,0,0,1,0,1,22,F,White-European,NO,NO,5,NO
+1,1,0,0,0,0,0,1,0,0,20,M,?,NO,NO,3,NO
+0,1,0,0,0,0,1,1,0,1,24,F,Middle Eastern,NO,NO,4,NO
+0,0,0,1,1,0,0,1,1,0,19,M,Middle Eastern,NO,NO,4,NO
+1,1,1,0,1,0,0,1,0,1,21,M,Others,NO,NO,6,NO
+0,0,0,0,0,0,0,0,0,0,20,M,Middle Eastern,NO,NO,0,NO
+1,1,0,0,0,0,0,0,0,0,18,F,Middle Eastern,NO,NO,2,NO
+0,1,1,0,0,0,0,1,0,1,23,F,Middle Eastern,NO,NO,4,NO
+1,1,1,0,1,1,1,1,0,1,22,M,Middle Eastern,NO,NO,8,YES
+1,1,0,1,1,0,0,0,0,0,18,F,South Asian,NO,YES,4,NO
+1,0,0,0,0,0,0,0,0,1,37,F,?,NO,NO,2,NO
+1,1,1,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,5,NO
+1,1,1,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,1,0,0,1,0,0,18,M,Middle Eastern,NO,NO,2,NO
+1,1,1,0,0,0,0,1,0,0,18,M,Middle Eastern,NO,NO,4,NO
+0,1,0,0,0,0,1,1,0,0,18,M,Middle Eastern,NO,NO,3,NO
+1,1,1,0,0,0,0,1,0,0,18,M,Middle Eastern,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,19,M,White-European,NO,NO,10,YES
+1,0,0,1,1,1,1,0,1,1,55,M,White-European,NO,NO,7,YES
+1,0,0,0,0,1,1,0,1,1,32,F,Asian,NO,NO,5,NO
+1,1,0,1,0,0,1,1,0,0,50,M,White-European,YES,NO,5,NO
+1,1,1,1,0,0,1,1,0,0,40,M,White-European,NO,NO,6,NO
+1,0,0,1,1,1,0,0,0,0,47,M,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,0,0,1,20,M,?,NO,NO,3,NO
+1,0,1,0,0,0,1,1,0,0,22,F,?,NO,NO,4,NO
+1,0,0,0,0,0,1,0,0,0,21,F,?,NO,NO,2,NO
+1,0,1,1,0,0,1,1,1,0,21,F,?,NO,NO,6,NO
+1,1,1,1,1,0,0,1,0,0,19,M,?,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,0,21,F,?,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,21,M,?,NO,NO,2,NO
+0,1,0,1,0,1,0,1,0,1,23,F,?,NO,NO,5,NO
+1,0,0,0,0,0,0,0,0,0,21,M,?,NO,NO,1,NO
+1,0,0,0,1,0,1,1,1,0,21,M,?,NO,NO,5,NO
+0,0,0,0,0,0,0,1,0,0,23,M,?,NO,NO,1,NO
+1,0,1,1,0,1,1,1,1,1,20,F,?,NO,NO,8,YES
+1,1,1,0,0,0,0,1,0,1,21,F,?,NO,NO,5,NO
+1,1,1,0,1,0,1,1,1,1,20,M,?,NO,NO,8,YES
+1,1,0,0,0,0,1,1,0,0,19,M,?,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,21,M,?,NO,NO,2,NO
+1,0,1,0,0,0,1,0,0,0,26,M,?,NO,YES,3,NO
+0,0,0,1,0,0,0,1,0,0,21,M,?,NO,NO,2,NO
+0,0,0,0,1,0,0,1,0,0,19,M,?,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,1,22,M,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,0,19,F,Middle Eastern,NO,NO,2,NO
+1,0,0,1,0,0,1,0,0,1,22,M,Middle Eastern,NO,NO,4,NO
+0,0,1,0,0,0,0,0,0,1,20,M,Middle Eastern,NO,NO,2,NO
+1,0,1,0,1,0,0,1,0,0,23,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,1,0,1,0,0,19,F,?,NO,NO,2,NO
+0,0,0,0,1,0,0,1,0,1,20,M,Middle Eastern,NO,NO,3,NO
+0,1,0,1,0,0,0,0,0,0,24,M,Middle Eastern,NO,NO,2,NO
+0,1,1,0,0,0,0,1,0,1,19,M,Middle Eastern,NO,NO,4,NO
+1,0,0,0,0,1,0,1,0,1,20,M,?,NO,NO,4,NO
+1,0,1,0,1,0,0,1,0,1,23,M,Middle Eastern,NO,YES,5,NO
+0,0,1,1,0,0,1,0,0,1,20,M,Others,NO,NO,4,NO
+1,0,1,0,1,0,0,1,0,1,20,M,Middle Eastern,NO,NO,5,NO
+0,0,0,0,0,0,0,1,1,0,20,M,?,YES,NO,2,NO
+1,0,1,0,0,0,0,0,0,1,20,F,?,NO,NO,3,NO
+1,0,0,1,1,0,0,1,0,1,21,F,Asian,NO,NO,5,NO
+0,1,0,0,0,0,0,0,0,1,19,M,?,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,1,20,F,Middle Eastern,NO,NO,3,NO
+1,0,0,1,1,0,1,0,0,1,20,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,1,0,0,1,0,25,M,Middle Eastern,YES,YES,3,NO
+1,0,0,0,0,0,0,1,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,1,1,1,0,1,22,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,0,20,F,?,NO,NO,2,NO
+0,1,0,0,1,1,0,0,0,0,20,M,?,NO,NO,3,NO
+0,0,0,1,0,0,1,0,0,0,20,F,?,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,23,F,?,NO,NO,2,NO
+1,1,1,1,1,0,1,0,1,1,21,F,?,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,22,M,?,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,21,F,?,NO,NO,3,NO
+1,0,1,0,0,0,0,0,0,1,20,F,?,NO,NO,3,NO
+1,0,0,1,0,0,0,0,0,0,22,F,?,NO,NO,2,NO
+1,0,1,1,1,0,1,1,0,0,21,F,?,YES,NO,6,NO
+1,1,0,0,1,0,0,1,0,0,20,F,?,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,20,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,1,0,0,1,0,0,21,M,?,NO,NO,3,NO
+1,0,1,1,1,0,0,0,1,1,21,M,Middle Eastern,NO,NO,6,NO
+0,1,0,0,0,1,0,1,0,1,23,F,Middle Eastern,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,21,F,Turkish,NO,NO,3,NO
+1,0,0,0,1,1,0,1,0,1,22,F,Black,NO,NO,5,NO
+0,1,1,1,0,1,0,1,0,0,19,F,?,NO,NO,5,NO
+1,1,1,0,1,0,0,0,0,0,20,F,Asian,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,1,21,F,Others,NO,NO,3,NO
+0,1,1,0,0,0,0,1,0,0,26,M,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,0,0,0,0,19,F,?,NO,NO,1,NO
+1,0,0,1,0,0,1,1,0,1,20,F,?,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,1,26,F,?,NO,NO,3,NO
+1,0,0,1,0,0,1,0,0,1,23,F,Black,NO,NO,4,NO
+1,0,0,1,0,0,1,0,0,1,28,F,?,NO,NO,4,NO
+0,1,0,1,1,0,0,0,0,0,19,F,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,1,1,0,0,20,F,Middle Eastern,NO,NO,3,NO
+0,1,0,0,1,0,1,1,0,1,19,F,Black,NO,NO,5,NO
+1,0,1,1,1,1,1,1,1,0,24,M,Asian,NO,NO,8,YES
+1,0,0,1,1,0,0,1,0,1,19,F,South Asian,NO,NO,5,NO
+1,1,0,0,0,0,0,0,0,0,22,F,Middle Eastern,NO,NO,2,NO
+1,1,0,1,0,0,0,0,0,1,20,F,Middle Eastern,NO,NO,4,NO
+0,1,0,1,0,0,0,1,0,0,21,M,Middle Eastern,NO,NO,3,NO
+0,0,1,1,1,0,0,1,0,0,24,F,Others,NO,NO,4,NO
+0,0,1,1,1,0,0,0,0,1,18,F,Middle Eastern,NO,NO,4,NO
+1,0,1,1,1,0,1,1,0,1,19,F,Middle Eastern,NO,NO,7,YES
+1,0,1,0,0,0,0,0,0,0,19,F,Middle Eastern,NO,NO,2,NO
+1,0,0,0,0,0,1,1,0,1,31,M,Middle Eastern,YES,NO,4,NO
+1,1,0,1,0,0,1,1,0,0,19,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,1,0,1,1,21,F,Middle Eastern,NO,NO,4,NO
+1,0,0,0,1,0,1,0,0,1,20,M,Middle Eastern,NO,NO,4,NO
+1,0,1,0,1,0,1,1,0,1,26,F,Middle Eastern,NO,NO,6,NO
+0,0,0,0,0,0,1,0,0,0,27,M,Middle Eastern,NO,NO,1,NO
+1,0,1,0,0,1,0,1,0,0,23,F,Middle Eastern,NO,NO,4,NO
+0,1,0,1,0,0,0,0,0,0,29,F,?,NO,NO,2,NO
+1,1,1,1,0,0,1,0,0,0,23,M,Middle Eastern,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,1,23,M,Turkish,NO,NO,4,NO
+1,0,1,1,1,1,0,1,1,1,24,M,Asian,NO,YES,8,YES
+1,0,0,1,0,0,1,1,0,0,21,M,?,NO,NO,4,NO
+0,0,0,0,1,0,1,0,0,0,20,F,?,NO,NO,2,NO
+1,0,1,0,1,0,1,1,1,0,20,M,?,NO,NO,6,NO
+1,1,1,1,1,1,1,0,1,1,32,F,Black,NO,NO,9,YES
+1,1,1,1,1,1,1,1,1,1,61,M,White-European,YES,YES,10,YES
+1,0,0,1,1,0,0,0,0,0,19,M,?,NO,NO,3,NO
+1,1,1,1,1,1,0,1,1,0,35,F,White-European,NO,NO,8,YES
+1,0,0,0,0,1,0,0,0,1,34,F,White-European,NO,NO,3,NO
+0,0,1,1,0,0,0,0,0,0,23,F,Middle Eastern,NO,NO,2,NO
+1,1,1,1,0,0,0,0,0,1,19,F,White-European,NO,NO,5,NO
+1,1,0,0,1,1,0,1,0,1,36,F,Others,NO,NO,6,NO
+1,1,0,0,0,0,0,1,0,1,21,F,?,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,23,M,White-European,NO,NO,2,NO
+1,0,1,1,1,0,1,0,0,1,17,M,Black,NO,NO,6,NO
+1,0,1,0,0,0,0,0,0,0,22,M,White-European,NO,NO,2,NO
+0,1,1,1,1,0,1,0,0,1,33,M,White-European,NO,YES,6,NO
+1,1,1,1,1,0,0,1,0,1,23,F,Asian,NO,NO,7,YES
+0,1,1,1,1,1,0,1,0,1,35,F,White-European,NO,YES,7,YES
+1,0,0,0,0,0,0,1,0,1,21,M,White-European,NO,YES,3,NO
+1,0,0,1,1,0,1,1,1,1,20,F,White-European,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,0,29,M,White-European,NO,NO,2,NO
+1,1,1,1,1,1,1,0,1,1,59,M,White-European,NO,NO,9,YES
+1,1,1,0,0,0,0,1,0,1,18,F,White-European,NO,NO,5,NO
+1,1,0,0,0,0,0,1,0,0,19,F,Middle Eastern,NO,NO,3,NO
+0,0,1,1,0,0,0,1,0,0,24,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,0,36,F,White-European,NO,NO,7,YES
+0,0,1,1,1,0,0,0,0,1,19,F,?,YES,NO,4,NO
+1,1,0,0,0,0,1,0,0,0,17,F,Black,NO,NO,3,NO
+1,0,0,0,0,0,0,1,0,1,52,M,White-European,YES,NO,3,NO
+1,1,0,1,1,0,0,0,0,0,18,M,Middle Eastern,NO,NO,4,NO
+0,0,0,0,0,0,1,0,0,0,30,M,Asian,NO,NO,1,NO
+0,1,1,1,1,1,0,1,1,1,18,M,Middle Eastern,YES,NO,8,YES
+1,1,1,1,1,0,0,1,0,0,27,M,Latino,NO,NO,6,NO
+0,0,0,1,0,0,0,0,0,0,52,F,White-European,NO,NO,1,NO
+0,0,0,0,0,0,0,1,0,0,45,F,Asian,NO,NO,1,NO
+0,1,1,1,1,1,0,0,1,0,25,F,Others,NO,NO,6,NO
+0,0,0,1,0,0,1,0,0,1,29,F,White-European,NO,NO,3,NO
+1,1,0,1,1,1,1,1,0,1,29,F,White-European,YES,NO,8,YES
+1,0,0,0,0,1,0,0,0,1,18,M,White-European,NO,YES,3,NO
+0,0,1,1,0,1,1,1,1,1,18,M,White-European,NO,NO,7,YES
+1,0,1,1,0,1,0,0,0,1,17,M,White-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,27,F,Asian,NO,NO,10,YES
+0,0,0,0,0,0,0,1,0,0,22,F,Asian,YES,NO,1,NO
+0,0,0,0,0,1,0,1,1,0,23,M,Asian,NO,NO,3,NO
+1,1,1,1,1,0,1,1,0,0,25,M,Latino,NO,NO,7,YES
+1,0,1,1,1,0,0,0,0,0,23,F,South Asian,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,1,29,M,Asian,NO,NO,3,NO
+1,0,0,1,1,0,1,0,0,0,27,F,Asian,NO,NO,4,NO
+1,0,0,0,0,1,0,1,0,0,27,F,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,0,0,0,43,F,South Asian,NO,NO,0,NO
+1,0,0,0,0,0,0,1,0,0,26,F,Asian,NO,NO,2,NO
+1,0,0,0,1,0,0,1,0,1,30,F,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,0,23,M,White-European,NO,NO,1,NO
+1,0,0,0,1,0,1,1,0,0,29,F,Asian,NO,NO,4,NO
+0,0,0,0,0,0,0,1,0,1,37,M,White-European,NO,NO,2,NO
+0,0,0,0,0,0,1,0,0,1,28,F,White-European,NO,NO,2,NO
+1,1,1,1,0,0,1,1,0,0,25,M,South Asian,NO,NO,6,NO
+1,0,1,1,0,0,1,1,0,0,25,M,Others,NO,NO,5,NO
+0,1,0,0,0,0,0,1,1,0,21,M,?,NO,NO,3,NO
+1,1,1,1,1,1,1,0,1,1,43,M,White-European,NO,NO,9,YES
+1,1,0,1,1,1,0,0,1,1,30,F,White-European,NO,NO,7,YES
+0,1,1,0,0,0,1,0,0,1,18,M,Black,NO,NO,4,NO
+1,1,1,1,0,0,0,1,0,0,18,F,White-European,NO,NO,5,NO
+1,1,1,1,0,0,1,1,1,0,30,M,Others,NO,NO,7,YES
+0,0,0,0,0,0,0,0,0,0,31,F,White-European,NO,NO,0,NO
+1,0,0,0,1,0,1,1,0,1,33,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,33,M,Latino,NO,NO,10,YES
+1,1,1,1,0,0,1,0,0,1,26,M,White-European,NO,NO,6,NO
+1,0,1,1,0,0,0,0,0,0,61,F,White-European,NO,NO,3,NO
+0,0,0,1,0,0,0,1,0,1,46,M,Others,NO,NO,3,NO
+0,1,1,1,1,1,1,0,1,1,33,M,Asian,NO,NO,8,YES
+1,1,1,1,1,0,1,1,0,1,38,F,Black,NO,NO,8,YES
+1,1,0,0,0,0,0,1,0,0,44,M,Black,NO,NO,3,NO
+0,1,1,1,1,0,0,0,1,0,48,F,Black,NO,YES,5,NO
+1,1,0,1,1,1,0,1,1,1,42,F,Latino,YES,NO,8,YES
+0,1,0,0,1,0,1,1,0,0,37,M,White-European,NO,NO,4,NO
+1,0,1,1,1,0,0,1,0,1,23,F,White-European,NO,YES,6,NO
+1,0,1,1,1,0,1,1,1,1,24,M,White-European,NO,YES,8,YES
+1,0,1,0,1,0,1,1,0,1,41,M,?,YES,YES,6,NO
+1,0,1,0,0,0,1,0,0,1,41,M,Asian,NO,NO,4,NO
+0,1,1,0,1,0,0,1,0,0,27,M,White-European,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,46,F,White-European,YES,YES,10,YES
+0,1,0,0,0,0,0,0,0,1,40,F,White-European,YES,NO,2,NO
+0,1,1,1,1,1,1,1,0,1,22,F,White-European,NO,NO,8,YES
+1,1,1,1,1,1,1,0,1,1,42,M,White-European,NO,NO,9,YES
+1,1,1,0,0,0,0,0,0,1,18,F,Asian,NO,NO,4,NO
+1,0,1,1,0,0,0,0,0,0,44,F,White-European,NO,NO,3,NO
+1,1,1,1,1,0,1,1,1,1,30,F,White-European,NO,NO,9,YES
+1,1,1,1,1,1,0,1,1,1,42,M,White-European,NO,NO,9,YES
+1,1,0,1,0,0,1,0,0,0,35,F,White-European,NO,YES,4,NO
+1,0,1,1,1,0,1,0,1,1,40,M,Black,NO,NO,7,YES
+0,1,0,0,0,0,0,0,1,1,50,F,?,NO,NO,3,NO
+0,0,1,1,0,0,0,0,0,1,38,M,Middle Eastern,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,1,26,F,White-European,NO,YES,8,YES
+1,1,1,1,1,0,0,1,0,1,27,F,White-European,NO,NO,7,YES
+1,1,1,1,1,0,1,0,1,0,47,F,White-European,YES,YES,7,YES
+1,1,0,1,1,1,0,0,0,1,21,M,Black,YES,YES,6,NO
+1,1,1,1,0,1,0,1,1,1,37,M,White-European,NO,NO,8,YES
+1,0,0,0,0,0,1,1,0,1,19,F,Others,NO,NO,4,NO
+0,0,0,1,0,0,1,1,0,1,32,M,Asian,NO,NO,4,NO
+0,0,0,0,1,0,0,1,0,1,26,F,?,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,46,F,White-European,YES,YES,10,YES
+0,1,0,0,0,0,0,1,0,0,29,M,Black,NO,NO,2,NO
+1,0,0,0,1,0,0,0,0,0,30,F,Black,NO,NO,2,NO
+1,1,0,0,0,0,1,1,0,0,32,F,Latino,NO,NO,4,NO
+0,1,1,1,0,0,0,0,0,1,35,F,White-European,YES,NO,4,NO
+0,1,1,1,1,1,1,1,1,1,22,M,White-European,NO,NO,9,YES
+0,0,0,1,1,0,1,0,0,1,19,F,?,NO,NO,4,NO
+0,1,0,0,1,0,0,0,0,1,24,M,?,NO,NO,3,NO
+0,1,0,0,1,0,0,0,0,0,52,F,?,NO,NO,2,NO
+0,1,0,0,1,1,0,0,1,1,52,M,?,NO,NO,5,NO
+1,0,1,0,0,1,0,1,0,0,32,F,White-European,NO,NO,4,NO
+0,1,1,1,1,1,0,0,0,1,24,M,White-European,NO,NO,6,NO
+1,1,1,1,1,1,0,1,1,1,24,M,White-European,NO,NO,9,YES
+0,1,0,0,0,0,0,0,0,0,49,F,Middle Eastern,YES,NO,1,NO
+0,1,1,1,1,1,1,1,1,1,30,F,Asian,NO,NO,9,YES
+0,1,1,1,1,1,1,1,1,1,30,F,Asian,NO,YES,9,YES
+1,0,1,1,1,1,1,1,1,1,35,F,White-European,YES,NO,9,YES
+1,0,1,1,1,1,1,0,0,1,35,F,White-European,YES,NO,7,YES
+1,0,1,1,0,0,0,0,0,1,37,F,White-European,NO,YES,4,NO
+0,1,1,1,0,0,0,1,0,1,43,M,White-European,NO,NO,5,NO
+1,1,1,1,0,0,1,0,0,1,52,M,White-European,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,44,M,White-European,NO,YES,10,YES
+1,1,0,0,0,0,0,0,0,0,46,F,White-European,NO,YES,2,NO
+1,0,0,0,1,0,0,0,0,1,42,F,White-European,NO,YES,3,NO
+0,0,1,0,0,0,0,0,0,0,20,M,Asian,NO,NO,1,NO
+1,1,1,0,1,0,1,0,1,1,18,M,Middle Eastern,NO,NO,7,YES
+1,1,1,1,1,1,0,1,1,1,38,M,White-European,NO,NO,9,YES
+1,0,0,1,1,0,0,1,0,0,24,F,Latino,NO,YES,4,NO
+1,1,0,0,0,0,0,1,0,0,32,M,?,NO,NO,3,NO
+1,1,0,1,1,0,0,0,0,0,29,M,Turkish,NO,NO,4,NO
+1,1,1,1,1,1,1,1,0,1,22,F,White-European,NO,NO,9,YES
+0,1,1,1,1,1,0,0,0,1,19,F,White-European,YES,NO,6,NO
+1,1,1,1,1,1,1,0,1,1,39,F,White-European,NO,YES,9,YES
+1,0,0,1,1,1,1,1,1,1,17,M,Black,NO,NO,8,YES
+0,1,0,1,0,1,1,0,1,1,19,F,Middle Eastern,NO,NO,6,NO
+1,0,0,0,0,0,1,1,1,0,18,M,White-European,NO,NO,4,NO
+0,1,0,0,1,1,0,0,1,0,19,M,?,NO,NO,4,NO
+0,1,0,0,0,0,0,1,0,0,28,F,Turkish,NO,NO,2,NO
+0,1,0,1,0,1,0,0,0,1,29,M,Asian,NO,NO,4,NO
+1,1,0,0,0,0,1,1,0,0,48,M,White-European,NO,NO,4,NO
+1,1,1,1,1,1,0,1,1,1,27,F,White-European,YES,YES,9,YES
+1,0,1,1,0,0,0,0,0,0,34,F,White-European,NO,NO,3,NO
+1,1,0,1,0,0,0,0,0,1,31,M,White-European,NO,NO,4,NO
+1,0,0,0,0,0,0,1,0,1,47,M,?,NO,NO,3,NO
+1,0,0,1,0,0,0,1,0,0,47,M,?,NO,NO,3,NO
+1,1,1,1,1,1,1,1,1,1,44,M,White-European,NO,YES,10,YES
+1,0,0,0,1,0,1,1,0,0,25,F,White-European,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,0,25,F,White-European,NO,NO,4,NO
+1,1,0,0,1,1,1,1,1,1,20,M,White-European,NO,NO,8,YES
+1,1,1,1,1,0,1,1,1,1,43,M,White-European,YES,NO,9,YES
+1,1,1,1,1,0,0,1,1,1,36,F,White-European,NO,YES,8,YES
+1,1,0,0,0,0,0,1,0,0,30,F,Asian,NO,YES,3,NO
+0,0,1,1,0,0,0,0,0,0,44,M,Black,NO,NO,2,NO
+1,1,0,0,1,0,0,0,0,1,40,F,Black,NO,NO,4,NO
+1,1,0,0,1,1,0,1,1,0,40,F,Black,YES,NO,6,NO
+1,1,0,1,1,1,0,1,1,0,40,F,Black,YES,YES,7,YES
+1,1,1,1,1,0,0,1,0,1,30,M,Others,NO,NO,7,YES
+1,0,1,1,0,0,1,0,0,1,47,F,White-European,NO,NO,5,NO
+1,1,1,1,1,1,1,1,1,1,21,M,Black,NO,NO,10,YES
+1,1,1,1,1,1,0,1,1,1,21,M,Black,NO,NO,9,YES
+1,0,1,1,1,1,1,1,1,1,31,F,?,NO,NO,9,YES
+1,1,1,0,0,0,0,0,0,0,21,F,Asian,NO,NO,3,NO
+0,1,1,1,0,0,0,1,1,0,29,F,Asian,NO,NO,5,NO
+0,1,1,1,1,0,1,0,1,0,22,M,Middle Eastern,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,51,M,White-European,YES,NO,10,YES
+1,0,0,0,0,0,0,0,0,0,23,M,?,NO,NO,1,NO
+1,0,0,0,1,0,0,0,1,1,30,M,Asian,NO,NO,4,NO
+1,1,0,0,0,0,0,1,0,0,22,M,Others,NO,NO,3,NO
+1,1,0,0,0,0,0,1,0,1,22,M,Asian,NO,NO,4,NO
+1,0,0,0,1,0,1,1,0,1,24,M,Asian,NO,NO,5,NO
+1,0,0,0,0,0,0,1,0,1,26,F,South Asian,NO,NO,3,NO
+1,0,1,1,0,0,0,1,1,1,33,F,Asian,NO,NO,6,NO
+1,0,0,0,0,0,0,1,1,0,23,M,Asian,NO,NO,3,NO
+1,0,1,0,0,0,0,1,0,0,42,F,Asian,NO,NO,3,NO
+1,0,1,0,0,0,0,0,0,0,26,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,0,1,0,0,29,F,Asian,NO,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,35,F,Asian,NO,NO,3,NO
+1,0,0,0,1,1,0,1,0,0,25,F,South Asian,NO,NO,4,NO
+1,0,0,0,0,0,1,1,0,0,25,M,Asian,NO,NO,3,NO
+0,0,0,0,0,0,0,1,0,0,28,F,Asian,YES,NO,1,NO
+1,0,0,0,0,0,0,0,0,0,33,M,White-European,NO,NO,1,NO
+1,0,0,1,0,0,1,1,0,0,25,M,Asian,NO,NO,4,NO
+0,0,1,0,1,1,0,1,0,1,25,M,Asian,NO,NO,5,NO
+1,0,0,0,1,0,1,1,0,0,24,M,Asian,NO,NO,4,NO
+1,1,1,1,0,0,0,0,0,1,27,F,South Asian,NO,NO,5,NO
+1,0,0,0,0,0,0,0,0,0,22,M,South Asian,NO,NO,1,NO
+1,1,0,1,0,0,0,1,0,1,21,F,South Asian,NO,NO,5,NO
+1,0,1,1,0,1,0,1,0,1,27,F,South Asian,NO,NO,6,NO
+1,0,0,0,1,0,1,0,0,0,23,M,South Asian,NO,NO,3,NO
+0,0,0,1,1,0,0,1,0,1,22,M,Asian,NO,NO,4,NO
+0,1,0,0,0,0,0,0,0,1,23,F,South Asian,NO,NO,2,NO
+1,0,0,1,0,0,0,1,0,1,30,M,Asian,NO,NO,4,NO
+0,1,0,0,1,0,1,1,0,0,33,M,Asian,NO,NO,4,NO
+1,0,1,1,1,0,1,1,1,0,24,F,South Asian,NO,NO,7,YES
+1,0,0,0,1,0,1,1,0,0,22,F,Asian,NO,NO,4,NO
+1,0,0,1,1,0,1,1,1,1,22,M,Asian,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,1,29,F,South Asian,NO,NO,3,NO
+1,0,1,0,1,0,1,1,0,1,22,F,Asian,NO,NO,6,NO
+1,0,1,0,0,0,0,1,0,0,21,M,Asian,YES,NO,3,NO
+1,0,0,0,0,0,1,1,0,0,23,M,Asian,NO,NO,3,NO
+1,0,0,0,1,0,1,1,0,1,23,F,Others,NO,NO,5,NO
+1,0,0,0,1,0,1,1,1,1,23,F,Asian,NO,NO,6,NO
+1,1,0,1,1,0,1,1,0,0,32,M,Asian,NO,NO,6,NO
+0,0,0,0,0,0,1,0,0,1,27,M,Asian,NO,NO,2,NO
+0,0,1,0,0,0,0,1,0,0,28,F,Asian,NO,NO,2,NO
+1,1,0,0,1,0,0,1,1,1,25,F,Middle Eastern ,NO,NO,6,NO
+1,0,1,0,1,0,1,1,1,1,22,M,Black,NO,NO,7,YES
+0,1,1,0,0,0,1,0,0,1,36,M,White-European,NO,NO,4,NO
+0,0,0,0,0,0,0,0,0,0,27,F,?,NO,NO,0,NO
+1,1,1,1,1,1,1,1,1,1,21,F,White-European,NO,NO,10,YES
+1,1,0,1,1,0,0,1,0,0,18,M,Black,NO,NO,5,NO
+1,0,0,0,1,1,1,1,1,1,49,M,Black,NO,NO,7,YES
+1,1,1,0,0,0,0,1,0,0,18,M,Asian,NO,NO,4,NO
+1,0,1,1,1,0,1,1,1,0,29,M,Latino,NO,NO,7,YES
+0,0,0,0,1,0,0,1,0,0,31,F,?,NO,NO,2,NO
+1,0,0,0,0,0,0,0,0,0,37,F,Middle Eastern ,NO,NO,1,NO
+1,0,1,1,1,0,0,1,0,1,17,M,Middle Eastern ,YES,NO,6,NO
+1,0,1,1,0,0,1,1,1,1,17,M,?,NO,YES,7,YES
+1,1,1,1,0,0,0,0,0,0,38,F,Middle Eastern ,NO,NO,4,NO
+1,0,1,0,0,1,0,1,0,1,18,M,White-European,YES,NO,5,NO
+1,0,1,1,1,0,0,0,0,0,31,F,Middle Eastern ,NO,NO,4,NO
+0,1,1,1,0,0,0,0,0,0,33,M,Middle Eastern ,YES,NO,3,NO
+1,1,0,0,0,0,0,0,0,0,32,F,Middle Eastern ,YES,NO,2,NO
+1,0,0,0,0,0,1,0,0,1,30,M,?,YES,NO,3,NO
+0,0,0,0,0,0,0,0,0,1,33,F,?,NO,NO,1,NO
+1,1,1,1,1,1,1,1,1,1,30,F,White-European,NO,YES,10,YES
+1,1,1,1,1,0,1,1,1,1,30,M,Asian,NO,NO,9,YES
+1,0,0,1,1,0,1,0,0,1,38,F,White-European,NO,YES,5,NO
+1,0,0,0,1,0,1,0,1,1,22,M,Asian,NO,NO,5,NO
+1,1,0,0,1,0,1,0,1,0,36,M,others,NO,NO,5,NO
+0,0,1,1,0,0,1,0,0,0,43,M,?,NO,NO,3,NO
+1,1,1,1,1,1,0,0,1,1,44,M,?,NO,NO,8,YES
+1,1,1,0,1,1,0,1,1,1,20,F,White-European,NO,NO,8,YES
+1,1,1,1,1,1,0,1,1,1,40,F,Others,YES,YES,9,YES
+1,0,0,1,1,1,0,0,1,0,25,M,White-European,NO,NO,5,NO
+1,0,0,0,0,0,1,1,0,1,28,M,White-European,NO,NO,4,NO
+0,0,0,0,0,0,1,1,0,1,17,M,White-European,NO,NO,3,NO
+1,1,1,1,1,1,1,0,1,1,34,M,White-European,NO,NO,9,YES
+0,0,0,0,0,0,0,1,0,0,56,M,?,NO,NO,1,NO
+0,0,1,0,0,0,1,1,0,0,50,F,Middle Eastern,NO,NO,3,NO
+1,0,0,0,0,0,1,1,0,1,38,M,White-European,NO,NO,4,NO
+1,1,1,1,1,1,1,1,1,1,47,M,White-European,NO,NO,10,YES
+1,1,1,1,1,0,1,1,1,1,30,M,Others,NO,NO,9,YES
+1,1,1,1,1,0,0,1,0,1,21,M,Hispanic,NO,NO,7,YES
+1,1,1,1,1,0,1,1,0,1,21,M,White-European,NO,NO,8,YES
+1,1,1,0,1,0,1,1,1,1,31,M,Latino,NO,NO,8,YES
+1,1,0,0,1,1,0,1,0,1,27,F,White-European,YES,NO,6,NO
+1,1,1,1,0,0,0,0,1,0,24,F,White-European,YES,NO,5,NO
+1,1,0,0,0,0,1,0,0,1,35,M,White-European,YES,NO,4,NO
+1,0,0,0,0,0,1,0,0,1,18,M,Black,NO,NO,3,NO
+1,1,1,1,1,0,0,1,1,1,43,F,Black,NO,NO,8,YES
+1,1,1,1,1,1,1,1,1,1,44,M,White-European,NO,YES,10,YES
+1,1,1,1,1,1,1,1,1,1,40,M,White-European,YES,YES,10,YES
+1,1,0,1,1,1,1,1,1,1,49,F,Hispanic,NO,NO,9,YES
+1,1,0,0,0,0,0,1,0,0,24,M,Hispanic,NO,NO,3,NO
+1,1,0,0,0,0,0,1,1,0,30,F,White-European,YES,YES,4,NO
+1,0,1,0,0,0,0,1,0,1,53,M,Hispanic,NO,NO,4,NO
+1,0,1,1,1,0,0,1,1,1,38,M,White-European,NO,YES,7,YES
+1,0,0,0,1,0,1,1,0,1,28,M,White-European,NO,NO,5,NO
+1,1,1,0,1,1,1,1,1,1,28,M,White-European,NO,NO,9,YES
+1,0,1,1,1,1,1,0,1,1,26,M,Black,NO,NO,8,YES
+1,0,0,0,1,1,1,1,1,1,39,F,White-European,NO,NO,7,YES
+0,0,0,0,1,0,0,0,0,0,31,F,Asian,YES,NO,1,NO
+1,0,0,1,0,0,1,1,0,0,24,M,Black,NO,NO,4,NO
+1,1,1,0,1,1,1,1,0,1,28,M,White-European,NO,NO,8,YES
+1,0,0,1,0,0,0,1,0,1,31,F,White-European,NO,NO,4,NO
+1,1,1,1,1,0,0,1,0,1,27,M,White-European,YES,NO,7,YES
+1,0,1,1,0,0,1,1,0,0,28,M,Latino,NO,NO,5,NO
+1,1,1,1,1,1,0,1,1,1,31,M,Turkish,NO,YES,9,YES
+1,1,1,1,1,0,0,0,0,1,46,F,Asian,NO,NO,6,NO
+1,1,1,1,1,1,1,1,1,1,27,F,Pasifika,NO,NO,10,YES
+0,1,0,1,1,0,1,1,1,1,25,F,White-European,NO,NO,7,YES
+1,0,0,0,0,0,0,1,0,1,34,M,Hispanic,NO,NO,3,NO
+1,0,1,1,1,0,1,1,0,1,24,F,?,NO,NO,7,YES
+1,0,0,1,1,0,1,0,1,1,35,M,South Asian,NO,NO,6,NO
+1,0,1,1,1,0,1,1,1,1,26,F,White-European,NO,NO,8,YES
